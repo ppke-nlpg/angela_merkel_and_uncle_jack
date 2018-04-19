@@ -1,0 +1,194 @@
+0	Annuska Boriska Julcsa Julis Mári Jolánka Bözsi Ilus Mariska
+1	Rozál Marcsa Borcsa Malvin Terka Rézi Etus
+2	Manyika Borika Valika Ilike Rózsika Julika Irénke Terike Jutka Marika Erzsike Ili Eta Olgi Jolika
+3	Mancika Gizike
+4	Bözsike Veronka Rozika Sárika Zsuzsika Pannika Margitka
+5	Esztike Klárika Évike Icuka Magdika Katika Ágika
+6	Orsika Juditka Mártika Editke Andika Dórika
+7	Palika Gabika Petike Csabika Józsika Ferike Zolika Lacika Sanyika Bandika Gyurika
+8	Ágó Piri Lackó Sári Emő Ilon
+9	Palkó Jánoska Jancsika Andriska Mózsi Ferke atyus Matykó Gazsi Ferkó
+10	Ani Tündi Zsani Hajni Móni Márti Zsuzska Ancsa Saci Julcsi
+11	Szeva Inci Icu Csucsu Zozi
+12	Dudus Imrus Gizus bátyó papus
+13	Feri Gyuri Laci Karcsi Sanyi Jani Pisti Misi Miki
+14	Jóska Pista Józsi Bandi öcsi Pityu Guszti Vili Gyuszi Tóni
+15	Titi Atti Lali Janó Jocó Karesz Taki Jenci
+16	Miska Jancsi Stefi Klári Menyus Vali Lidi Gizi Frici Berci Rozi
+17	Khon Kohn
+18	Janek Vecsey Tersánszky Pondoray
+19	pali Bácsi Gyurka Zsiga
+20	Róka Jankó Samu Kopasz
+21	bácsis Piacsek Lajó Schriwanek Rudi Frédi Dönci bácsi néni pipás füttyös
+22	brácsás cimbalmos trombitás zenekarvezető muzsikás rajkó cigányzenekar cigányprímás
+23	zongoraművész hegedűművész csellóművész gordonkaművész zeneszerző karmester
+24	fiúkórus kamarazenekar kórus
+25	karvezető kórusvezető karnagy koncertmester orgonaművész orgonista
+26	prokonzul prokurátor helytartó főember dózse főinkvizítor
+27	biboros bibornok bíbornok primás gubernátor zenemester választófejedelem hercegérsek
+28	efendi vezír szultán padisah
+29	nádor Ulászló cár császár fejedelem király
+30	Schulhoffer atyaságtok Úrat úrat ur Grisa úr
+31	kincstárnok kincstartó kamarás főudvarmester titoknok íródeák írnok
+32	jószágkormányzó jószágigazgató kasznár számtartó tiszttartó
+33	csendbiztos porkoláb várúr
+34	Rendek Macskaházy nyúzó
+35	apátúr uraság udvarnagy udvarmester Gróf úrhölgy úrasszony
+36	trónörökös herceg nagyherceg koronaherceg
+37	királyné hercegnő királynő császárnő uralkodónő
+38	mennyasszony menyasszony vőlegény szerető udvarló hitvese jegyes leány hitves
+39	rabszolganő cselédlány szolgálólány komornyik komorna házvezetőnő társalkodónő inas szobaleány
+40	Dulcinea királykisasszony hercegkisasszony tündérkirálynő tündérkirály
+41	báróné grófné fejedelemasszony királyasszony királyleány
+42	patrónus megmentő jótevő őrző őrangyal angyal
+43	szolgatárs atyjafia rendtárs társnő
+44	szolga szolgáló szolgálóleány Szolga famulus fegyverhordozó udvarhölgy fegyvernök apród
+45	kegyelmed felség fölség fenség
+46	édesatya nagyatya őméltósága testvérhúg
+47	úrnő néne mátka szüle lyány
+48	Õ Ô ô
+49	Jézus isten atya Mester Király Ur szabadító
+50	Jonathán Absolon Joáb Zebulon Midián Potifár Kaifás
+51	nagyúr testőrkapitány klánvezér Mandalore
+52	úrnõ űrnő Ura istennő papnő Sába Hádész
+53	nagybácsi nagynéni
+54	anyuka apuka nagymama nagypapa
+55	nagymami dédi papa mami mama nagyi
+56	leányka kisleány legényke fiúcska lányka mackó kislányka tündérke kisfiú kislány fiú lány szegényke kölök nagyfiú
+57	koldusasszony parasztasszony cigányasszony matróna suhanc
+58	öregúr öregasszony öregember aszszony asszony fiatalasszony asszonyka asszonyság
+59	kisöreg mamóka bakter muki
+60	vénasszony vénember öreglány banya nyanya
+61	fiatalúr úrfi nagyapó nagyanyó mámi anyóka apóka
+62	párocska hölgyike pincérlány jóember fószer pasas hapsi faszi
+63	házmester boltos kocsmáros
+64	nénike bácsika szembeszomszéd házinéni szomszédasszony nővérke kollegina főnök főnöknő főnökasszony
+65	Bátya Liú fejdél testvérbátya bátyja báttya kisbarát
+66	öcsike hugica bátyuska húgocska fiacska
+67	öregapa öreganya férjúr férjecske barátné drusza
+68	papó dédimama mamika nagyika Bek apuska Béluska Péterke
+69	dédnagyapa dédnagyanya dédnagypapa dédnagymama
+70	nagyapa nagyanya dédapa dédanya
+71	kisfi kisunoka keresztfia keresztlány kishug kisöcs kishúg
+72	fater bnő unokatesó tesó vej Kedves bátya nagybátya
+73	fia testvér nővér
+74	nej férj feleség apa anya édesapa édesanya
+75	meny vő öcs húg unokatestvér unokahúg unokaöcs sógor anyós após keresztapa keresztanya nagynéne sógornő
+76	nevelőapa mostohaapa nevelőanya mostohaanya
+77	unokafivér unokanővér unokabáty
+78	kolléganő kolleganő lakótárs szobatárs osztálytárs csoporttárs évfolyamtárs padtárs osztálytársnő
+79	barátnő barát haver cimbora koma pajtás
+80	bulla ediktum
+81	vizitáció nagykáptalan konzisztórium pápaválasztás püspökszentelés
+82	őszentsége szentatya főpásztor pápa egyházfő szentszék Vatikán kongregáció zsinat
+83	papság klérus főpapság világegyház egyház kereszténység
+84	Laterán Róma senatus pápaság szent-szék
+85	Bonifacius Dionüsziosz Gratianus Antoninus ellenpápa társcsászár Honorius Valerianus
+86	Pius Piusz Bonifác Ince Sixtus Vigilius Liberius Callixtus Bonifatius Humbertus Gentilis
+87	képtisztelet Nesztoriosz Pelagius Luther Timotheus apostol
+88	patriárka exarcha metropolita pátriárka patriarcha
+89	Epiphanius Theodorosz Kürillosz Theophilosz konstantinápolyi Kirillosz Phótiosz Photiosz Ignatiosz
+90	jezsuita piarista domonkos bencés ciszterci pálos ferences
+91	ciszter bazilita klarissza minorita kapucinus
+92	redemptorista verbita lazarista Kármelita karmelita kármelita
+93	Domonkos Joákim Anasztáz Odó Kajetán Teofil Bernát
+94	Teodóz templomigazgató OFM Kálmáncsehi Krizosztom Polikárp
+95	fônöknô úrnô fônök lelkivezető gyóntatóatya gyóntató lelkiatya
+96	diákonus áldozópap fôpásztor fôpap szerzetes főpap pap egyházfi sekrestyés
+97	magiszter preceptor alperjel prior apát főapát perjel
+98	gvardián házfônök novíciusmester páter házfőnök gvárdián
+99	szerzetesnővér szerzetespap novícius szeminarista kispap papnövendék
+100	újoncmester székesegyházi vicerektor hitszónok hittanár paptanár szerzetes-tanár rendházfőnök
+101	noviciátus papnevelde zárda rendház
+102	főegyházmegye püspökség érsekség prépostság káptalan
+103	Citeaux Cluny apátnő apácakolostor archimandrita igumen Bernardin Paulinus
+104	elöljárónő rendfônök Kolvenbach
+105	definitor rendtartomány tartományfőnök anyakolostor priorátus
+106	szenttéavatás jézustársaság szerzetesközösség testvérület harmadrend regula szerzetesnô rendalapító
+107	püspök érsek segédpüspök megyéspüspök
+108	irodaigazgató helynök protonotárius főtisztelendő prelátus legátus nuncius koadjutor vizitátor vikárius rendfőnök
+109	Haynald Csernoch Scitovszky Zadravecz Telekesy Benkovich
+110	Jusztinián Serédi hercegprimás bíboros-hercegprímás hercegprímás
+111	prímás-érsek bíboros-prímás prímás Wyszynski bíboros-érsek bíboros
+112	apátkanonok őrkanonok kanonok prépost nagyprépost főesperes
+113	alesperes főgondnok szuperintendens superintendens plebános predikátor plebánus kanonokság kegyúr
+114	kántortanító káplán segédlelkész kántor lelkipásztor lelkész plébános esperes
+115	parochus parókus paróchus esperes-lelkész prépost-plébános apátplébános esperes-plébános esperesplébános
+116	válaszmány Győr-Sopron rendõr-fõkapitányság B-A-Z bács-kiskun baranya LSZ főügyészhelyettes tanácselnök-jelölt
+117	tűzoltóparancsnok rendőrkapitány kapitányságvezető őrsparancsnok cigányvajda rendőrparancsnok főrendőr fõügyész fõkapitány főkapitány főkapitány-helyettes
+118	alpolgármester polgármester tanácsnok polgármester-helyettes
+119	polgármesterasszony jegyzőnő jegyzőasszony
+120	főjegyző aljegyző jegyző körjegyző jegyzõ
+121	főbíró megyefőnök városbíró főispán alispán
+122	vezetőjegyző közgyám segédjegyző törvénybíró
+123	levéltárnok főlevéltárnok
+124	alügyész főszámvevő irodatiszt alszolgabíró főszolgabiró járásbíró táblabíró szolgabíró főszolgabíró
+125	fogalmazó ülnök kollégiumvezető büntetőbíró
+126	tisztviselő főtisztviselő tanácstag elöljáró főtanfelügyelő prefektus tanfelügyelő kórházigazgató iskolaigazgató
+127	Cservenkáné VB-titkár tanácselnök-helyettes fõjegyzõ vb-elnök tanácstitkár vb-titkár tanácselnök
+128	múzeumigazgató főlevéltáros könyvtárigazgató bányaigazgató körorvos postamester bács főkertész fővadász
+129	külügyminisztérium külügyminiszter nagykövet konzul diplomata
+130	alkormányzó kormányzó főkormányzó
+131	államelnök államfő miniszterelnök-helyettes miniszterelnökhelyettes államminiszter kultuszminiszter kormányelnök kormányfõ
+132	elnökjelölt szenátor politikus pártvezető pártvezér
+133	kormány pénzügyminiszter kormányfő miniszterelnök kancelláriaminiszter főpolgármester házelnök pártelnök
+134	igazságügy-miniszter igazságügyminiszter belügyminiszter főügyész miniszter államtitkár EP-képviselő főbiztos
+135	ügyvezető elnök-vezérigazgató vezérigazgató szóvivõ szóvivő sajtófőnök sportigazgató főszerkesztő
+136	dékán rektor
+137	fõigazgató vezető-helyettes főosztályvezető főigazgató-helyettes főigazgató igazgató igazgatóhelyettes igazgató-helyettes
+138	sajtótitkár kabinetfőnök főtanácsadó jogtanácsos megbízott helyettes
+139	képviselet-vezető képviseletvezető kirendeltség-vezető irodavezető hivatalvezető titkárságvezető médiafelelős koordinátor
+140	elnök-asszony exelnök elnöknő elnökasszony
+141	pártigazgató kampányfőnök frakcióigazgató frakcióvezető frakcióvezető-helyettes pártalelnök MSZP-elnök exminiszter
+142	elnöki vezérkar vezetés vezetőség szövetség választmány elnökség
+143	ügyvivő főtitkár elnök társelnök alelnök elnökhelyettes
+144	elnők alenök elnök-helyettes főtitkárhelyettes főtitkár-helyettes főtitkárság fõtitkár fôtitkár
+145	tag képviselő vezető
+146	szervezőtitkár tikár titkárhelyettes titkár korelnök háznagy pénztárnok
+147	őkegyelmessége rendőrminiszter Richelieu Schmerling Kaunitz Metternich Bismarck
+148	Brüning Dolfuss Schuschnigg Dollfuss
+149	Schwarzenberg Ciano Clemenceau Veesenmayer Ribbentrop
+150	Klaus Günther Horst Wolfgang Gerhard
+151	Gauck Köhler Wulff Schauble Schäuble Haider Schröder Kohl Schüssel Seehofer Faymann Modrow Kiesinger Vranitzky Müntefering Pröll Gusenbauer
+152	Schacht Adenauer Busek
+153	hesseni Guido Scharping alkancellár kancellár Beckstein Stoiber
+154	Bundestag CSu CDu Merkel-kormány Bundesbank
+155	Angela Sarkozy Merkel Barroso
+156	exkancellár kancellárnő kancellárasszony Westerwelle Frank-Walter Steinmeier Genscher Hans-Dietrich Litvinov Sikorski
+157	Fleto gyurcsány Fletó
+158	jános pubi szíjjártó
+159	eltárs elvtárs elvtársnő elvti elvtár elvtársúr elftárs eftárs
+160	rendőrspicli titkosszolga szekus tartótiszt besúgó spicli
+161	vérbíró hóhér pribék Lenin-fiú keretlegény vöröskatona ellenforradalmár forradalmár
+162	ávéhás ÁVÓ-s ÁVO-s ÁVH-s ávós
+163	horthysta pufajkás munkásőr
+164	oligarcha bolsevista moszkovita kollaboráns
+165	fidesznyik szoci bolsi komcsi provokátor hazaáruló gazember
+166	elvbarát kartárs samesz csicskás talpnyaló bérenc bértollnok
+167	káder pártkatona pártkáder pártember pártmunkás pártfunkcionárius funkcionárius pártaktivista párttag
+168	nacsalnyik komisszár komiszár főelvtárs ifjúkommunista csinovnyik apparatcsik
+169	pártlap cenzor agitátor propagandista főhóhér pártfőnök főcenzor főideológus
+170	főagronómus téeszelnök tsz-elnök brigádvezető gyárigazgató
+171	Koroncai munkásőrparancsnok párttikár kisztitkár KISZ-titkár pártitkár párttitkár KB-tag PB-tag KB-titkár elsőtitkár Kisz -titkár
+172	MSzMP NSZEP MSZMP RKP MDP SZDP
+173	káderosztály propagandaosztály munkástagozat reformszárny
+174	honvédegylet kultúrbizottság népbizottság járásbíróság néptanács elöljáróság
+175	direktórium katonatanács pártszervezet pártvezetőség pártközpont pártapparátus
+176	pártalapszervezet pártbizottsági pártaktíva párttitkárság KISZ-bizottság pártbizottság
+177	Mikoján Szuszlov Mikojan Husák Csernyenko pártfőtitkár Brezsnyev Hruscsov Malenkov Andropov
+178	frontparancsnok hadseregtábornok Szerov Jefremovics Vorosilov
+179	Abakumov Krjucskov Visinszkij
+180	Lunacsarszkij Zsdanov Zinovjev Trockij Kaganovics Jezsov Berija Szverdlov Dzerzsinszkij
+181	Kádár Rákosi Sztalin Sztálin Hitler Führer Piłsudski
+182	Szálasi-kormány Sztójay-kormány Kádár-kormány Károlyi-kormány tanácskormány
+183	Komszomol politbüró Komintern propagandaminisztérium titkosrendőrség Cseka
+184	attasé miniszer miniszter-helyettes miniszterhelyettes
+185	csoportfőnökség ügyosztály alosztályvezető csoportfőnök főcsoportfőnök
+186	miniszterium VKM hadügyminisztérium minisztertanács
+187	népbiztoshelyettes népbiztos-helyettes népbiztosság népbiztos osztálytanácsos hadügyi népbiztosi
+188	brigadéros tisztiszolga segédtiszt szárnysegéd
+189	vezérezredes tábornagy tábornok marsall hadügyminiszter főparancsnok
+190	főtiszt tiszt városparancsnok hadseregparancsnok hadtestparancsnok
+191	Szakasits Imrédy Linder vádbiztos Szamuely Szamuelly
+192	AVH NKVD ÁVO
+193	belügyér rendőrtábornok belügyminiszter-helyettes ôrnagy csendőrtiszt hadbíró börtönparancsnok táborparancsnok

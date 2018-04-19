@@ -1,0 +1,196 @@
+
+0	népművész keramikus fafaragó fegyverkovács kovácsmester fazekasmester
+1	gyertyaöntő mézeskalácsos szőnyegszövő csipkeverő kosárfonó szövő bronzöntő képkeretező bútorkészítő üvegfúvó
+2	kőedény kerámiaedény cserépedény agyagedény
+3	majolika kályhacsempe habán kékfestő kismesterség fazekasság fafaragás kőfaragás
+4	kézművesműhely látványműhely
+5	szövőház tímárház csipkeház alkotóház szövőműhely
+6	bányamúzeum bormúzeum kőtár tanyamúzeum fazekasház kézművesház babamúzeum skanzen falumúzeum tájház
+7	bodega fabódé raktárhelyiség bolthelyiség
+8	sütőház jurta fazekasműhely kovácsműhely
+9	öntőműhely ötvösműhely üvegvitrin sütőkemence égetőkemence
+10	magánmúzeum műteremlakás műterem kiállítóterem
+11	tanműhely mûhely műhely
+12	kerámiaműhely festőműhely varroda asztalosműhely lakatosműhely pékműhely cipészműhely szabóműhely
+13	fűtőerőmű biogáz-üzem biogázüzem biomassza-erőmű fűtőmű hőerőmű
+14	szivattyútelep tisztítómű szennyvíztisztító-telep szennyvíztelep
+15	présüzem szerelőcsarnok gyártócsarnok üzemcsarnok meleghengermű nagyolvasztó hengermű
+16	beremendi Mátravidéki tiszapalkonyai akkumulátorgyár alumíniumgyár alumíniumkohó lignitbánya cementmű cementgyár Metallochemia brikettgyár kaszagyár
+17	acélipar acélgyártás bányászkodás kohászat szénbányászat
+18	kőfejtő mészkőbánya agyagbánya kavicsbánya homokbánya
+19	vasércbánya ércbánya bánya szénbánya külfejtés bauxitbánya szénmedence bányaüzem uránbánya
+20	kisüzem fűrészüzem hűtőház feldolgozóüzem termelőegység termelőüzem textilüzem gyárüzem
+21	húsfeldolgozó tejfeldolgozó baromfifeldolgozó baromfi-feldolgozó
+22	kenyérgyár konzervgyár tejüzem húsüzem sajtgyár sajtüzem konzervüzem sütőüzem palackozóüzem
+23	textilmű sörgyár dohánygyár
+24	festékgyár kerámiagyár manufaktúra tésztagyár csokoládégyár pezsgőgyár sörfőzde serfőzde
+25	ktsz faüzem szőnyeggyár kábelgyár textilgyár szövőgyár bútorgyár cipőgyár ruhagyár kötöttárugyár
+26	bányavállalat tröszt műtrágyagyár kombinát
+27	üveggyár öntöde acélgyár acélmű parkettagyár üzemegység gyáregység bőrgyár gyár papírgyár cukorgyár
+28	lőporgyár hadiüzem lőszergyár fegyvergyár repülőgépipar repülőgépgyártás repülőgyár hajtóműgyár mozdonygyár hajógyár repülőgépgyár
+29	fűtőház járműjavító munkásotthon harisnyagyár kenderfonó növényolajgyár törzsgyár házgyár fonoda
+30	acélöntöde fémmű
+31	Ganz-gyár szerszámgépgyár vagongyár vasöntöde gépgyár MÁVAG csőgyár lámpagyár traktorgyár kazángyár DIGÉP BHG Ganz-Mávag
+32	szeszfőző sörfőző pálinkafőző
+33	lepárlóüzem lepárló szeszfőzde borkimérés bérfőzde pálinkafőzde főzde
+34	pezsgőgyártás sörgyártás sörfőzés
+35	pincegazdaság borkombinát borgazdaság borászat
+36	tejszövetkezet termelőszövetkezet TSZ téesz
+37	majorság mintagazdaság virágkertészet faiskola ökogazdaság biogazdaság tejgazdaság tehenészet sertéstelep hizlalda
+38	szőlőskert présház borospince borpince munkásház lakóház pinceház barlanglakás gazdaház talpasház
+39	mészárszék sóraktár gabonaraktár magtár
+40	téglavető vasolvasztó téglaégető vaskohó kohó olajütő szárazmalom fűrészmalom huta papírmalom üveghuta vashámor
+41	szénmosó gázgyár víztorony postaépület tűzoltólaktanya huszárlaktanya Zichy-kastély kiskastély
+42	csendőrlaktanya laktanya kaszárnya menház rendház
+43	tanácsház megyeház vármegyeház sóház nagyvendéglő sörház serház
+44	kőszénbánya koronauradalom bányaigazgatóság
+45	gőztéglagyár ecetgyár szódagyár jéggyár sertéshizlalda szikvízüzem
+46	szappangyár kőedénygyár selyemgyár gyufagyár gőzmalom szeszgyár keményítőgyár czukorgyár kocsigyár kályhagyár
+47	ipartelep gyártelep gépállomás fűrésztelep
+48	faraktár hengermalom villanytelep vasmű Bánya szénosztályozó gyárváros posztógyár kendergyár vasgyár téglagyár
+49	ALDI Interspar Aldi Euronics Electroworld
+50	Coop Vianni látványpékség Fornetti
+51	Cora CBA Spar Lidl Tesco konzum Billa Kaufland Kika Bricostore Baumax Praktiker
+52	Dixons Stores Walmart Wal-Mart Woolworths Debenhams
+53	BricoStore Möbelix BauMax KiK JYSK DEICHMANN
+54	drogériahálózat drogérialánc barkácsáruházlánc barkácslánc barkácsáruház-lánc
+55	Karstadt Migros Tengelmann REWE Rewe Carrefour Tengelmann-csoport Ahold Edeka
+56	eladóterű diszkonthálózat élelmiszerdiszkont szupermarket-lánc szupermarketlánc szupermarket-hálózat üzletlánc áruházlánc hipermarket-lánc diszkontlánc hipermarketlánc élelmiszeráruház-lánc élelmiszer-áruházlánc
+57	étteremhálózat kávézólánc étteremlánc gyorsétterem-lánc gyorsétteremlánc
+58	KFC McDonalds Nordsee Vapiano
+59	borkereskedés vinotéka borszaküzlet
+60	cukrászüzem sütöde cukrászda pékség cukrászműhely cukrászat salátabár látványkonyha
+61	lángossütő hamburgeres lángosos tejivó pecsenyesütő lacikonyha
+62	gyorsétterem gyorsétkezde kifőzde gyorsbüfé
+63	falatozó talponálló kiskocsma kisvendéglő kávézó bisztró fagylaltozó pizzéria ételbár szendvicsbár
+64	italmérés italbolt péküzlet kávémérés
+65	vaskereskedés fűszerüzlet szatócsbolt vegyeskereskedés vegyesbolt tejcsarnok kenyérbolt hentesbolt hentesüzlet húsbolt
+66	hűtőpult húspult csemegepult
+67	zöldségbolt virágbolt virágüzlet édességbolt boltocska csemegeüzlet csemegebolt fűszerbolt csokibolt Culinaris delikátesz
+68	filmkölcsönző zenebolt könyvesbolt antikvárium könyváruház könyvüzlet könyvesbolthálózat könyvklub
+69	halbolt bazár vásárcsarnok nagycsarnok patika gyógyszertár dohánybolt nagyáruház hipermarket szupermarket élelmiszerbolt élelmiszerüzlet kisbolt trafik üzletközpont bevásárlóközpont bolt üzlet áruház
+70	supermarket árúház kisüzlet hypermarket diszkontáruház raktáráruház bevásárló-központ élelmiszeráruház élelmiszer-áruház
+71	outlet bútoráruház bútorüzlet webbolt mintabolt márkaüzlet márkabolt
+72	lerakat nagykereskedés kiskereskedés áruda szaküzlet szakáruház szakkereskedés szakbolt barkácsáruház
+73	drogéria biobolt parfüméria illatszerbolt
+74	írószerbolt festékbolt papírbolt hobbibolt barkácsbolt
+75	bioüzlet használtruha-bolt CD-bolt hangszerbolt szexbolt szexshop fegyverbolt kisállat-kereskedés túrabolt kerékpárbolt sportbolt sportáruház játéküzlet babaáruház játékbolt bababolt
+76	masszázsszalon szépségszalon borbélyüzlet fodrászüzlet fodrászszalon
+77	zálogház ékszerüzlet ékszerbolt butik ruhabolt ruhaüzlet bútorbolt cipőbolt cipőüzlet fehérneműbolt
+78	műkereskedés régiségkereskedés régiségbolt dizájnbolt divatszalon divatüzlet luxusüzlet
+79	szuvenírbolt ajándékbolt ajándéküzlet bevásárlóhely kioszk internetkávézó játékbarlang luxusétterem vendéglátóegység
+80	Tessloff-Babilon Publio Cherubion Typotex Noran Cartaphilus Scolar Szukits GABO Libro Taschen
+81	Athenaeum Atheneum kiadóház Humanitas Kriterion Ullstein Rowohlt Gallimard
+82	hanglemezkiadó édességgyártó sörgyártó könyvterjesztő Könyvterjesztõ adatbázis-forgalmazó MKKE WAN-IFRA
+83	könyvkereskedő könyvkereskedés nyomdatulajdonos tipográfus nyomdász
+84	est-lap újságkiadó könyvforgalmazó nyomdavállalat magánkiadó kiadóvállalat lapkiadó -kiadó szakkönyvkiadó könyvkiadó kiadó
+85	társlap testvérlap melléklap kiadóhivatal szerkesztőgárda lapcsoport lapgazda Publikátor lapkiadás könyvvilág
+86	kiadótulajdonos lapalapító lapszerkesztő laptulajdonos
+87	olvasószerkesztő tördelőszerkesztő társszerkesztő segédszerkesztő dolgozótárs vezércikkíró tárcaíró
+88	szerkesztő főszerkesztő szerkesztőségvezető rovatvezető főszerkesztő-helyettes alapító-főszerkesztő lapigazgató alapító-szerkesztő igazgató-főszerkesztő tulajdonos-főszerkesztő
+89	szemleíró kolumnista szerkesztõ fõszerkesztõ szerkesztô fôszerkesztô
+90	társ-szerző társszerző társzerző társszerzõ társkiadó
+91	Búvópatak versszerkesztő vendégíró vendégszerkesztő vezetőszerkesztő
+92	-könyv sikerkönyv sikerszerző JAK-füzet gyermekkönyv
+93	háziszerző társalkotó szöveggondozó szaklektor szerző sorozatszerkesztő szépíró
+94	zárófejezet zárókötet nyitókötet záródarab nyitódarab
+95	periodikum periodika folyóirat reprint különnyomat különlenyomat
+96	életműkiadás életműsorozat életmű-sorozat kiskönyvtár zsebkönyvsorozat albumsorozat kiadványsorozat könyvsorozat
+97	esszégyűjtemény tanulmánygyűjtemény elbeszéléskötet drámakötet műfordításkötet fordításkötet
+98	prózaszerkesztő emlékszám csodaceruza műhelynapló Prae
+99	vámügynökség speditőr fuvarozócég adatbázis-szolgáltató call-center ügyféllista cégképviselet cégprofil
+100	márkakereskedő vezérképviselet márkaképviselet szakkereskedő szervizpartner szervizközpont
+101	tagvállalat társcég partnercég partnervállalat referenciamunka sajtókapcsolat
+102	szervizhálózat partnerhálózat fiókhálózat bankhálózat irodahálózat szolgáltatóközpont
+103	franchise-partner franchise-hálózat franchise-rendszer terjesztőhálózat üzlethálózat bolthálózat
+104	vevőkör gyártókapacitás kereskedőhálózat termékcsoport termékkör márkatermék üzlettípus
+105	szolgáltatás szolgáltató ügyfél megrendelő megbízó
+106	multi termelő kereskedő nagykereskedő kiskereskedő
+107	gyártó importőr forgalmazó disztribútor viszonteladó szállító beszállító termék márka versenytárs partner
+108	internetszolgáltató internet-szolgáltató mobiltelefon-szolgáltató telefontársaság mobilszolgáltató mobilcég
+109	légitársaság vasúttársaság bank pénzintézet hitelintézet biztosító biztosítótársaság
+110	hálózatüzemeltető hardvergyártó készülékgyártó márkatulajdonos tartalomgyártó tartalomszolgáltató
+111	alkalmazásfejlesztő termékfejlesztő szoftverfejlesztő rendszerintegrátor
+112	IT-szolgáltató nyomtatógyártó -gyártó eszközgyártó
+113	IT-szakember IT-vezető innovátor startup
+114	mobilgyártó telefongyártó mobiltelefon-gyártó memóriagyártó alaplapgyártó szervergyártó notebookgyártó számítógépgyártó PC-gyártó
+115	szoftvervállalat szoftvercég fejlesztőcég szoftvergyártó szoftverház
+116	zenekiadó játékkiadó játékgyártó fejlesztőstúdió játékcég
+117	háztartásigép-gyártó szerszámgépgyártó építőanyag-gyártó festékgyártó bútorforgalmazó bútorgyártó cipőgyártó
+118	-forgalmazó alapanyaggyártó élelmiszergyártó
+119	alkatrész-beszállító acélgyártó gépgyártó alkatrészgyártó termékgyártó gyártóvállalat
+120	cégvezető cégtulajdonos vállalkozó vállakozó
+121	kisvállalat kkv kisvállalkozás vállalakozás vállalkozás vállakozás
+122	patikalánc gyógyszertárlánc dohánycég gyógyszercég gyógyszergyár
+123	vetőmagcég világvállalat kereskedőlánc élelmiszercég IT-vállalat IT-cég
+124	világcég multicég gyártócég kereskedőcég mammutcég mamutcég mamutvállalat válallat szolgáltatócég
+125	exportcég befektető nagybank nagybefektető nagycég kiscég cégfelvásárlás kockázatitőke-társaság
+126	magánvállalat magáncég magánvállalkozás magánvállalkozó
+127	termelőcég iparvállalat termelővállalat közművállalat villamosmű
+128	szakiparos szaktervező szakkivitelező pirotechnikus takarítócég szakvállalat szakcég
+129	generálkivitelező beruházó alvállakozó alvállalkozó mérnökiroda generálkivitelezés ingatlanberuházó ingatlankezelő
+130	szerszámgép hegesztőgép gépsor csomagológép gyártóberendezés célgép földmunkagép géplánc
+131	csőszerelés szerszámgyártás gyártómű bérgyártás kártevőirtás szervizmunka szerviztevékenység
+132	munkaművelet munkafázis munkafolyamat
+133	célfeladat résztevékenység munkafeladat részfeladat
+134	könyvelés bérelszámolás bérszámfejtés tesztrendszer bérprogram könyvelőprogram
+135	társtulajdonos üzlettárs cégtárs
+136	adócsoport ügyintéző titkárnő személyzetis tanácsadó főkönyvelő jogtanácsos
+137	könyvvizsgáló auditor adószakértő adótanácsadó aktuárius alkuszcég
+138	követeléskezelő hitelügyintéző hitelközvetítő brókercég bróker üzletkötő értékesítő közvetítőiroda ingatlanközvetítő ingatlaniroda autókereskedő autókereskedés ingatlanügynök magánnyomozó
+139	marketingszakember reklámszakember pr-es PR-os
+140	hirdetésszervező médiatervező médiavásárló médiatulajdonos
+141	HR-vezető ügyfélmenedzser HR-osztály marketingosztály munkaerő-közvetítő munkaerő-kölcsönző karriertanácsadó tréningcég HR-szakember fejvadászcég
+142	munkaügyes munkaügyis hr-es HR-es középvezető pénzügyes
+143	webdesigner rendszergazda informatikus könyvelő könyvelőcég könyvelőiroda fordítóiroda pályázatíró
+144	tervezőmérnök technológus minőségellenőr gépkezelő
+145	bedolgozó bérelszámoló anyagbeszerző könyvelõ vámügyintéző
+146	részvénytöbbség részvénypakett pakett részvénycsomag
+147	Lotos Orlen PKN Česká rompetrol Slovnaft Petrom Rafineria Gdanska Beopetrol Transpetrol
+148	OMV ÖMV Tifon Benzina Bayernoil Rafinerska
+149	Norsk Statoil Vattenfall Areva Montedison Veba Kralupy Südzucker PGNiG Ruhrgas Wintershall
+150	ConocoPhillips Conoco Sinopec TNK TNK-BP Lukoil
+151	Panrusgáz BorsodChem gázüzlet gázüzletág Mol Szurgutnyeftyegaz
+152	benzinkút-hálózat töltőállomás-hálózat töltőállomás benzinkúthálózat kúthálózat
+153	olajfinomító finomító kőolaj-finomító kőolajfinomító gáztároló gázszállító gázvezeték-hálózat kőolajipari földgáztermelő gázkereskedelem gázkereskedő
+154	energiatársaság olajvállalat olajtársaság olajcég energiacég energiavállalat energiakonszern olajkonszern olajóriás
+155	autógyártó autógyár vállalatóriás cégóriás konszern óriásvállalat óriáscég
+156	Beiersdorf Stollwerck Friesland Parmalat Cemex Glencore Diageo SABMiller
+157	Immobilien Immoeast Elektronik Mannesmann ThyssenKrupp AG Gmbh
+158	részleg ügynökség nagyvállalat cég vállalat üzletág iparág
+159	vegyesvállalat projektcég vállalatcsoport cégcsoport konzorcium részvénytársaság holding
+160	utódcég testvérvállalat alvállalat érdekeltség anyacég anyavállalat leánycég leányvállalat
+161	hajtóműgyártó repülőgépgyártó Finmeccanica Thales Alenia
+162	Composites Aerospace aircraft Lockheed-Martin Honeywell Westinghouse
+163	GM-Daewoo Daimler-Benz DaimlerChrysler SAIC Bombardier DAF SAAB Matra TWR
+164	karosszériagyártó teherautógyár autóalkatrész-gyártó Krauss-Maffei Rheinmetall Magna-Steyr FSO Steyr
+165	mérnökgárda tervezőgárda mérnökcsapat szakembergárda projektcsapat cégvezetés
+166	játékgyár óragyár dizájnstúdió designstúdió mérnökcsoport tervezőcég
+167	építővállalat tervezővállalat tervezőintézet tervezőiroda
+168	gyártóközpont tesztközpont fejlesztőközpont összeszerelő-üzem gyártóhely gyártóüzem gyártóegység elosztóközpont raktárbázis gyártóbázis
+169	napelemgyár abroncsgyár gumigyár Eybl Coloplast Flextronics
+170	buszgyártó járműgyártó buszgyár Kravtex
+171	motorkerékpár-gyár sportkocsigyár gyáróriás motorgyártás motorgyár motorgyártó
+172	kerékpárgyár motorkerékpárgyár csapágygyár járműgyár szerszámgyár
+173	magánszínház rajzfilmstúdió filmgyár filmstúdió Mythberg filmműhely Projectograph megafilm Mafilm Mokép
+174	filmintézet filmszövetség filmközpont filmlaboratórium
+175	filmprodukció filmproducer koproducer filmgyártó moziüzemeltető filmforgalmazó mozilánc mozihálózat filmcég filmvállalat filmtársaság
+176	label Company lemeztársaság lemezkiadó lemezcég PolyGram zeneműkiadó
+177	Picturest Carolco Lucasfilm DreamWorks Dreamworks Metro-Goldwyn-Mayer Miramax Paramount Lionsgate Spyglass Films Productions Pictures universal
+178	Zukor pathé Gaumont Ufa Endemol MGM
+179	médiaóriás médiakonszern médiacsoport tévétársaság médiavállalkozás médiacég médiavállalat
+180	befektetőcég ingatlancég ingatlanügynökség
+181	lobbicég pr-cég marketingcég PR-cég reklámcég
+182	divatcég modellügynökség sajtóügynökség fotóügynökség képügynökség
+183	-cég reklámiroda kiállításszervező kreatívigazgató reklámügynökség médiaügynökség pr-ügynökség PR-ügynökség marketingügynökség Dentsu
+184	Kluwer HarperCollins Hachette Publishing Springer kiadócsoport szakkiadó
+185	magazinkiadó újmédia-divízió Bertelsmann WAZ Ringier CEMP Sanoma VNU
+186	műsorgyártó reklámértékesítés MediaSales
+187	hírlapkiadó hanglemezgyártó Mahir Axel-Springer Lapcom lapterjesztő
+188	McCann-Erickson TBWA BBDO DDB
+189	Mindshare MindShare Starcom MediaVest Worldcom ZenithOptimedia MediaCom JWT WPP Publicis
+190	Gemius TNS marketingkutató kutatócég tanácsadócég
+191	Adecco Interpublic Omnicom OMD
+192	Ventiv Develor CIO sales Dialog Consultants communications T-Systems T-csoport Isobar Kirowski Carnation Carat MEC
+193	BTL ATL médiavásárlás médiatervezés marketingkommunikáció PR
+194	médiaügynökségi marketingkommunikációs reklámügynökségi ügynökségi bútorkereskedelmi könyvkereskedelmi
