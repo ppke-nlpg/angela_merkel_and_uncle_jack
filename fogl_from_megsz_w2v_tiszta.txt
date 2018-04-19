@@ -1,0 +1,53 @@
+22	brácsás cimbalmos trombitás zenekarvezető muzsikás cigányprímás
+23	zongoraművész hegedűművész csellóművész gordonkaművész zeneszerző karmester
+24	karvezető kórusvezető karnagy koncertmester orgonaművész orgonista
+26	prokonzul prokurátor helytartó főember dózse főinkvizítor
+27	bíbornok gubernátor választófejedelem hercegérsek
+31	kincstárnok kincstartó kamarás főudvarmester titoknok íródeák
+32	jószágkormányzó jószágigazgató kasznár számtartó tiszttartó
+33	csendbiztos porkoláb várúr
+39	rabszolganő cselédlány szolgálólány komorna házvezetőnő társalkodónő szobaleány
+44	szolga szolgáló szolgálóleány fegyverhordozó udvarhölgy fegyvernök apród testőrkapitány klánvezér 
+63	házmester boltos kocsmáros
+1 hittanár paptanár szerzetes-tanár
+1 szerzetesnô rendalapító
+108	irodaigazgató helynök protonotárius prelátus legátus nuncius koadjutor vizitátor vikárius rendfőnök
+2 főügyészhelyettes tanácselnök-jelölt
+117	tűzoltóparancsnok rendőrkapitány kapitányságvezető őrsparancsnok cigányvajda rendőrparancsnok főrendőr főkapitány főkapitány-helyettes
+118	alpolgármester polgármester tanácsnok polgármester-helyettes
+119	polgármesterasszony jegyzőnő jegyzőasszony
+120	főjegyző aljegyző jegyző körjegyző jegyzõ
+121	főbíró megyefőnök városbíró főispán alispán
+122	vezetőjegyző közgyám segédjegyző törvénybíró
+123	levéltárnok főlevéltárnok
+124	alügyész főszámvevő irodatiszt alszolgabíró járásbíró táblabíró szolgabíró főszolgabíró
+125	fogalmazó ülnök kollégiumvezető büntetőbíró
+126	tisztviselő főtisztviselő tanácstag elöljáró főtanfelügyelő prefektus tanfelügyelő kórházigazgató iskolaigazgató
+127	tanácselnök-helyettes vb-elnök tanácstitkár vb-titkár tanácselnök
+128	múzeumigazgató főlevéltáros körorvos bács főkertész fővadász
+129	konzul 
+130	alkormányzó főkormányzó
+131	kultuszminiszter kormányelnök
+132	elnökjelölt szenátor pártvezető pártvezér
+134	főügyész miniszter főbiztos
+135	ügyvezető elnök-vezérigazgató szóvivõ szóvivő sajtófőnök sportigazgató főszerkesztő
+136	dékán rektor
+137	fõigazgató vezető-helyettes főosztályvezető főigazgató-helyettes főigazgató igazgató igazgatóhelyettes igazgató-helyettes
+138	sajtótitkár főtanácsadó jogtanácsos 
+139	képviselet-vezető képviseletvezető kirendeltség-vezető irodavezető hivatalvezető titkárságvezető médiafelelős koordinátor
+140	asszony exelnök elnöknő elnökasszony
+141	pártigazgató kampányfőnök frakcióigazgató frakcióvezető-helyettes pártalelnök MSZP-elnök exminiszter
+143	ügyvivő társelnök elnökhelyettes
+144	főtitkár-helyettes 
+146	szervezőtitkár titkárhelyettes titkár korelnök háznagy pénztárnok
+1 rendőrminiszter
+156	exkancellár kancellárnő kancellárasszony 
+170	főagronómus téeszelnök tsz-elnök brigádvezető
+171	munkásőrparancsnok KISZ-titkár párttitkár KB-tag PB-tag KB-titkár elsőtitkár
+178	frontparancsnok hadseregtábornok 
+184	attasé miniszterhelyettes
+185	alosztályvezető csoportfőnök főcsoportfőnök
+188	segédtiszt
+189	vezérezredes tábornagy marsall hadügyminiszter főparancsnok
+190	városparancsnok hadseregparancsnok hadtestparancsnok
+193	rendőrtábornok belügyminiszter-helyettes ôrnagy csendőrtiszt hadbíró börtönparancsnok

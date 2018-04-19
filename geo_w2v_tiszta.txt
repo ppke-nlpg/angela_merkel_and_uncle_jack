@@ -1,0 +1,47 @@
+7	átkelõ határállomás határátkelő határátkelőhely
+11	alagút árok utca
+13	út
+14	autóbuszmegálló 
+23	rendező-pályaudvar teherpályaudvar személypályaudvar 
+33	vonatmegálló trolimegálló HÉV-megálló
+39	buszgarázs kocsiszín
+40	megálló buszmegálló villamosmegálló
+43	repülőtér
+45	pályaudvar vasútállomás állomás megállóhely végállomás
+46	metróállomás metrómegálló taxiállomás buszvégállomás buszállomás buszpályaudvar
+47	hajóállomás kompkikötő
+48	autóbusz-pályaudvar autóbusz-állomás
+50	HÉV-végállomás HÉV-állomás metróvégállomás villamos-végállomás
+51	főpályaudvar
+55	hídfő rakpart felüljáró híd
+59	körönd körtér nagykörút kiskörút
+60	körút
+68	promenád korzó sugárút sétány
+69	strand
+82	szigetcsoport
+91	sziget félsziget partvidék part
+100	fjord tengeröböl lagúna korallzátony
+119	dombság dombvidék hegyhát homokhát löszhát szőlővidék homokvidék homokpuszta
+124	tórendszer víztározó holtág halastó
+125	tó folyó patak láp mocsár folyóvíz vízfolyás
+128	domb hegy tisztás rét lejtő
+131	fennsík hegygerinc dombhát hegycsúcs hágó
+142	hegyszoros völgy hegység 
+148	dolina töbör zsomboly víznyelő karsztforrás forrásbarlang mészkőbarlang barlangjárat barlangrendszer járatrendszer
+149	canyon Canyon
+150	krátertó gleccser gleccsertó
+151	vízesés tengerszem sziklakapu kőtenger kilátópont
+153	jégbarlang cseppkőbarlang barlang 
+161	magisztrátus exarchatus vilajet szandzsák székváros helytartóság kormányzóság
+164	hercegség őrgrófság grófság alkirályság miniállam nagyhercegség
+165	fejedelemség kalifátus kánság császárság birodalom
+166	határgrófság 
+167	városállam gyarmatváros provincia municipium
+196	metropólia egyháztartomány patriarchátus 
+197	egyházközség egyházmegye plébánia esperesség főesperesség
+198	főegyházmegye
+202	székesfőkáptalan püspökség érsekség prépostság káptalan kanonokság székeskáptalan társaskáptalan főapátság
+218	főváros város kerület
+221	kisközség község nagyközség falu megye
+224	plébániatemplom székesegyház temető kápolna templom
+230	tanya játszótér lakótelep

@@ -1,0 +1,114 @@
+4	kézművesműhely látványműhely
+5	szövőház tímárház csipkeház alkotóház szövőműhely
+6	bányamúzeum bormúzeum kőtár tanyamúzeum fazekasház kézművesház babamúzeum skanzen falumúzeum tájház
+8	fazekasműhely kovácsműhely
+9	öntőműhely ötvösműhely
+10	magánmúzeum műterem kiállítóterem
+11	tanműhely műhely
+12	kerámiaműhely festőműhely varroda asztalosműhely lakatosműhely pékműhely cipészműhely szabóműhely
+16	akkumulátorgyár alumíniumgyár alumíniumkohó cementmű cementgyár brikettgyár kaszagyár bányaüzem
+20	fűrészüzem textilüzem 
+21	húsfeldolgozó tejfeldolgozó baromfifeldolgozó baromfi-feldolgozó
+22	kenyérgyár konzervgyár tejüzem húsüzem sajtgyár sajtüzem konzervüzem sütőüzem palackozóüzem
+23	sörgyár dohánygyár
+24	festékgyár kerámiagyár manufaktúra tésztagyár csokoládégyár pezsgőgyár sörfőzde
+25	faüzem szőnyeggyár kábelgyár textilgyár szövőgyár bútorgyár cipőgyár ruhagyár kötöttárugyár
+26	bányavállalat tröszt műtrágyagyár kombinát
+27	üveggyár öntöde acélgyár acélmű parkettagyár bőrgyár gyár papírgyár cukorgyár
+28	lőporgyár lőszergyár fegyvergyár repülőgyár hajtóműgyár mozdonygyár hajógyár repülőgépgyár
+29	járműjavító harisnyagyár növényolajgyár törzsgyár házgyár fonoda
+30	acélöntöde fémmű
+31	szerszámgépgyár vagongyár vasöntöde gépgyár csőgyár lámpagyár traktorgyár kazángyár
+32	szeszfőző sörfőző pálinkafőző
+33	lepárlóüzem szeszfőzde pálinkafőzde
+35	pincegazdaság borkombinát borgazdaság borászat
+36	tejszövetkezet
+37	virágkertészet faiskola tejgazdaság tehenészet sertéstelep
+38	szőlőskert borospince borpince
+40	vasolvasztó téglaégető vaskohó huta üveghuta vashámor
+41	szénmosó gázgyár
+45	gőztéglagyár ecetgyár szódagyár jéggyár sertéshizlalda szikvízüzem
+46	szappangyár kőedénygyár selyemgyár gyufagyár gőzmalom szeszgyár keményítőgyár kocsigyár kályhagyár
+47 	posztógyár kendergyár vasgyár téglagyár látványpékség
+54	drogériahálózat drogérialánc barkácsáruházlánc barkácslánc barkácsáruház-lánc
+56	diszkonthálózat élelmiszerdiszkont szupermarket-lánc szupermarketlánc szupermarket-hálózat üzletlánc áruházlánc hipermarket-lánc diszkontlánc hipermarketlánc élelmiszeráruház-lánc élelmiszer-áruházlánc
+57	étteremhálózat kávézólánc étteremlánc gyorsétterem-lánc gyorsétteremlánc
+59	borkereskedés vinotéka borszaküzlet
+60	cukrászüzem sütöde cukrászda pékség cukrászműhely cukrászat salátabár látványkonyha
+61	lángossütő hamburgeres lángosos tejivó pecsenyesütő lacikonyha
+62	gyorsétterem gyorsétkezde kifőzde gyorsbüfé
+63	falatozó talponálló kiskocsma kisvendéglő kávézó bisztró fagylaltozó pizzéria ételbár szendvicsbár
+64	italmérés italbolt péküzlet kávémérés
+65	vaskereskedés fűszerüzlet szatócsbolt vegyeskereskedés vegyesbolt tejcsarnok kenyérbolt hentesbolt hentesüzlet húsbolt
+67	zöldségbolt virágbolt virágüzlet édességbolt csemegeüzlet csemegebolt fűszerbolt csokibolt delikátesz
+68	filmkölcsönző zenebolt könyvesbolt antikvárium könyváruház könyvüzlet könyvesbolthálózat könyvklub
+69	halbolt bazár vásárcsarnok nagycsarnok patika gyógyszertár dohánybolt nagyáruház hipermarket szupermarket élelmiszerbolt élelmiszerüzlet kisbolt trafik üzletközpont bevásárlóközpont bolt üzlet áruház
+70	diszkontáruház raktáráruház bevásárló-központ élelmiszeráruház élelmiszer-áruház
+71	outlet bútoráruház bútorüzlet webbolt mintabolt márkaüzlet márkabolt
+72	lerakat nagykereskedés kiskereskedés áruda szaküzlet szakáruház szakkereskedés szakbolt barkácsáruház
+73	drogéria biobolt parfüméria illatszerbolt
+74	írószerbolt festékbolt papírbolt hobbibolt barkácsbolt
+75	bioüzlet használtruha-bolt CD-bolt hangszerbolt szexbolt szexshop fegyverbolt kisállat-kereskedés túrabolt kerékpárbolt sportbolt sportáruház játéküzlet babaáruház játékbolt bababolt
+76	masszázsszalon szépségszalon borbélyüzlet fodrászüzlet fodrászszalon
+77	zálogház ékszerüzlet ékszerbolt butik ruhabolt ruhaüzlet bútorbolt cipőbolt cipőüzlet fehérneműbolt
+78	műkereskedés régiségkereskedés régiségbolt dizájnbolt divatszalon divatüzlet luxusüzlet
+79	szuvenírbolt ajándékbolt ajándéküzlet internetkávézó 
+81  kiadóház
+82	hanglemezkiadó édességgyártó sörgyártó könyvterjesztő adatbázis-forgalmazó
+83	könyvkereskedő könyvkereskedés
+84	est-lap újságkiadó könyvforgalmazó nyomdavállalat magánkiadó kiadóvállalat lapkiadó szakkönyvkiadó könyvkiadó kiadó
+85	kiadóhivatal lapcsoport
+99	vámügynökség fuvarozócég
+100	márkakereskedő vezérképviselet márkaképviselet szakkereskedő szervizpartner szervizközpont
+101	tagvállalat társcég partnercég partnervállalat referenciamunka sajtókapcsolat
+102	szervizhálózat partnerhálózat fiókhálózat bankhálózat irodahálózat szolgáltatóközpont
+103	franchise-partner franchise-hálózat franchise-rendszer terjesztőhálózat üzlethálózat bolthálózat
+104	kereskedőhálózat 
+108	internetszolgáltató internet-szolgáltató mobiltelefon-szolgáltató telefontársaság mobilszolgáltató mobilcég
+109	légitársaság vasúttársaság bank pénzintézet hitelintézet biztosító biztosítótársaság
+110	hálózatüzemeltető hardvergyártó készülékgyártó márkatulajdonos tartalomgyártó tartalomszolgáltató
+112	IT-szolgáltató nyomtatógyártó -gyártó eszközgyártó
+114	mobilgyártó telefongyártó mobiltelefon-gyártó memóriagyártó alaplapgyártó szervergyártó notebookgyártó számítógépgyártó PC-gyártó
+115	szoftvervállalat szoftvercég fejlesztőcég szoftvergyártó szoftverház
+116	zenekiadó játékkiadó játékgyártó fejlesztőstúdió játékcég
+117	háztartásigép-gyártó szerszámgépgyártó építőanyag-gyártó festékgyártó bútorforgalmazó bútorgyártó cipőgyártó
+118	alapanyaggyártó élelmiszergyártó
+119	alkatrész-beszállító acélgyártó gépgyártó alkatrészgyártó termékgyártó gyártóvállalat
+122	patikalánc gyógyszertárlánc dohánycég gyógyszercég gyógyszergyár
+123	vetőmagcég világvállalat kereskedőlánc élelmiszercég IT-vállalat IT-cég
+124	világcég multicég gyártócég kereskedőcég mammutcég mamutcég mamutvállalat válallat szolgáltatócég
+125	exportcég befektető 
+126	magánvállalat magáncég 
+127	termelőcég iparvállalat termelővállalat közművállalat villamosmű
+128	takarítócég szakvállalat szakcég
+129	mérnökiroda ingatlanberuházó ingatlankezelő alkuszcég
+138	brókercég közvetítőiroda ingatlanközvetítő ingatlaniroda autókereskedés  magánomozó
+141	fejvadászcég
+152	benzinkút-hálózat töltőállomás-hálózat töltőállomás benzinkúthálózat kúthálózat
+154	energiatársaság olajvállalat olajtársaság olajcég energiacég energiavállalat energiakonszern olajkonszern olajóriás
+155	autógyártó autógyár vállalatóriás cégóriás konszern óriásvállalat óriáscég
+158	ügynökség cég vállalat
+159	vegyesvállalat projektcég vállalatcsoport cégcsoport konzorcium részvénytársaság holding
+160	utódcég testvérvállalat alvállalat anyacég anyavállalat leánycég leányvállalat
+161	hajtóműgyártó repülőgépgyártó 
+164	karosszériagyártó teherautógyár autóalkatrész-gyártó
+166	játékgyár óragyár dizájnstúdió designstúdió tervezőcég
+167	építővállalat tervezővállalat tervezőintézet tervezőiroda
+169	napelemgyár abroncsgyár gumigyár
+170	buszgyártó járműgyártó buszgyár 
+171	motorkerékpár-gyár sportkocsigyár gyáróriás motorgyártás motorgyár motorgyártó
+172	kerékpárgyár motorkerékpárgyár csapágygyár járműgyár szerszámgyár
+173	magánszínház rajzfilmstúdió filmgyár filmstúdió filmműhely
+174	filmintézet filmszövetség filmközpont filmlaboratórium
+175	filmgyártó moziüzemeltető filmforgalmazó mozilánc mozihálózat filmcég filmvállalat filmtársaság
+176	lemeztársaság lemezkiadó lemezcég zeneműkiadó
+179	médiaóriás médiakonszern médiacsoport tévétársaság médiavállalkozás médiacég médiavállalat
+180	befektetőcég ingatlancég ingatlanügynökség
+181	lobbicég pr-cég marketingcég PR-cég reklámcég
+182	divatcég modellügynökség sajtóügynökség fotóügynökség képügynökség
+183	reklámiroda reklámügynökség médiaügynökség pr-ügynökség PR-ügynökség marketingügynökség 
+184	kiadócsoport szakkiadó
+185	magazinkiadó 
+186	műsorgyártó 
+187	hírlapkiadó hanglemezgyártó lapterjesztő
+190	marketingkutató kutatócég tanácsadócég

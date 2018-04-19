@@ -1,0 +1,63 @@
+9	atyus
+12	bátyó papus
+14	öcsi 
+21	bácsi néni
+28	efendi vezír szultán padisah
+29	nádor cár császár fejedelem király
+30	úr
+35	apátúr uraság udvarnagy udvarmester Gróf úrhölgy úrasszony
+36	trónörökös herceg nagyherceg koronaherceg
+37	királyné hercegnő királynő császárnő uralkodónő
+40	királykisasszony hercegkisasszony tündérkirálynő tündérkirály
+41	báróné grófné fejedelemasszony királyasszony királyleány
+45	felség 
+46	édesatya nagyatya őméltósága testvérhúg
+47	úrnő néne mátka szüle lyány 
+51	nagyúr 
+52	úrnõ űrnő istennő papnő 
+53	nagybácsi nagynéni
+54	anyuka apuka nagymama nagypapa
+55	nagymami dédi papa mami mama nagyi
+56	leányka kisleány legényke fiúcska lányka kislányka kisfiú kislány fiú lány kölök nagyfiú
+57	koldusasszony parasztasszony cigányasszony matróna suhanc
+58	öregúr öregasszony öregember asszony fiatalasszony asszonyka asszonyság kisasszony
+59	kisöreg mamóka muki
+60	vénasszony vénember öreglány banya nyanya
+61	fiatalúr úrfi nagyapó nagyanyó mámi anyóka apóka
+62	párocska hölgyike pincérlány jóember fószer pasas hapsi faszi
+64	nénike bácsika szembeszomszéd házinéni szomszédasszony nővérke kollegina főnök főnöknő főnökasszony
+66	öcsike hugica bátyuska húgocska fiacska
+67	öregapa öreganya férjúr férjecske barátné drusza
+68	papó dédimama mamika nagyika apuska
+69	dédnagyapa dédnagyanya dédnagypapa dédnagymama
+70	nagyapa nagyanya dédapa dédanya
+71	kisfi kisunoka keresztfia keresztlány kishug kisöcs kishúg
+72	fater bnő unokatesó tesó vej Kedves bátya nagybátya
+73	fia testvér nővér báty
+74	nej férj feleség apa anya édesapa édesanya
+75	meny vő öcs húg unokatestvér unokahúg unokaöcs sógor anyós após keresztapa keresztanya nagynéne sógornő
+76	nevelőapa mostohaapa nevelőanya mostohaanya
+77	unokafivér unokanővér unokabáty
+78	kolléganő kolleganő lakótárs szobatárs osztálytárs csoporttárs évfolyamtárs padtárs osztálytársnő
+79	barátnő barát haver cimbora koma pajtás
+82	őszentsége szentatya főpásztor pápa egyházfő 
+85	ellenpápa társcsászár
+87	apostol
+88	patriárka exarcha metropolita pátriárka patriarcha
+95	lelkivezető gyóntatóatya gyóntató lelkiatya
+96	diákonus áldozópap fôpásztor fôpap szerzetes főpap pap egyházfi sekrestyés
+97	magiszter preceptor alperjel prior apát főapát perjel
+98	gvardián házfônök novíciusmester páter házfőnök gvárdián
+99	szerzetesnővér szerzetespap novícius szeminarista kispap papnövendék
+100	újoncmester vicerektor hitszónok rendházfőnök
+103	apátnő
+104	elöljárónő rendfônök 
+107	püspök érsek segédpüspök megyéspüspök
+110	 hercegprimás bíboros-hercegprímás hercegprímás
+111	prímás-érsek bíboros-prímás prímás bíboros-érsek bíboros
+112	apátkanonok őrkanonok kanonok prépost nagyprépost főesperes
+113	alesperes főgondnok szuperintendens superintendens plebános predikátor plebánus kegyúr
+114	kántortanító káplán segédlelkész kántor lelkipásztor lelkész plébános esperes
+115	parochus parókus paróchus esperes-lelkész prépost-plébános apátplébános esperes-plébános esperesplébános
+147	őkegyelmessége 
+159	elvtárs elvtársnő elvtársúr

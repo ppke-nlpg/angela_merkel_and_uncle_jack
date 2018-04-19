@@ -1,0 +1,157 @@
+0	tördelőszerkesztő olvasószerkesztő rovatvezető segédszerkesztő vezércikkíró tárcaíró
+1	kiadótulajdonos laptulajdonos lapalapító
+2	lektor szerkesztő kiadóigazgató kiadóvezető író-szerkesztő újságíró-szerkesztő
+3	könyvszerkesztő folyóirat-szerkesztő rádiószerkesztő rádióriporter újságszerkesztő
+4	író-költő költő-író szépíró irodalomszervező szociográfus
+5	irodalomtudós irodalomkritikus irodalomtörténész esztéta irodalmár
+6	műfordító esszéíró esszéista
+7	mûfordító filmesztéta művelődéstörténész színháztörténész
+8	középkorkutató germanista filozófiatörténész eszmetörténész kultúrtörténész klasszika-filológus
+9	művészetkritikus műtörténész műkritikus zeneesztéta zenetudós zenekritikus
+10	történetfilozófus filozófus bölcselő tanulmányíró monográfus interpretátor szellemtörténész
+11	novellista prózaíró színműíró regényíró drámaíró dalköltő költőfejedelem költő poéta író vígjátékíró útleíró
+12	zsurnaliszta filosz literátor sajtólevelező közíró publicista lapszerkesztő hírlapíró
+13	vándorszínész néptanító
+14	államférfi államférfiú reformpolitikus kultúrpolitikus művelődéspolitikus
+15	grammatikus rétor történetiró krónikaíró krónikás történetíró
+16	vallásszociológus vallástörténész teológus egyházjogász egyháztörténész hittudós exegéta reformátor
+17	néprajzos etnográfus néprajzkutató folklorista néprajztudós
+18	levéltáros könyvtárigazgató helytörténész várostörténész
+19	orientalista keletkutató sinológus indológus turkológus őstörténész
+20	világutazó vadászíró Afrika-kutató
+21	térképész kartográfus geográfus földrajztudós régiségbúvár genealógus numizmatikus mineralógus polihisztor
+22	hadtudós jogfilozófus jogtudós közjogász jogtörténész hadtörténész nyelvész történész bizantinológus akadémikus
+23	sajtótörténész szótárszerkesztő neveléstörténész tankönyvíró bibliográfus
+24	nyelvtudós történettudós szaktudós filológus szótáríró nyelvtörténész finnugrista történelemtudós
+26	vívóedző fodrászmester zenetanár táncpedagógus művésztanár tanár matematikatanár rajztanár
+27	faiparos gazdász erdőmérnök agrármérnök kertészmérnök agronómus mezőgazdász
+28	vegyészmérnök gépészmérnök villamosmérnök kohómérnök bányamérnök kultúrmérnök épületgépész-mérnök
+29	mérnök-közgazdász szakközgazdász
+30	szakoktató mérnök-tanár közlekedésmérnök mérnöktanár környezetmérnök technológus szakmérnök vegyésztechnikus üzemmérnök gépésztechnikus
+31	olajmérnök atomfizikus repülőmérnök elektromérnök
+32	biomérnök bölcsész informatikus tanársegéd laboráns konzultáns
+33	agrokémikus geofizikus geológus hidrogeológus hidrológus
+34	geodéta földmérő vízépítő gépész mérnök
+35	konzervátor kiállításrendező preparátor múzeumpedagógus gyűjteménykezelő restaurátor muzeológus művészettörténész főrestaurátor kurátor
+37	restaurátorművész kőrestaurátor
+38	kerámiaművész tervezőművész éremművész ötvösművész üvegművész keramikusművész textilművész festőművész grafikusművész
+39	üvegtervező iparművész keramikus faszobrász kőszobrász népművész fazekasmester
+40	textiles textilműves viseletkészítő faműves bőrműves fafaragó szalmafonó csipkeverő kosárfonó szövő faesztergályos gyöngyfűző varró bőrdíszműves
+41	bábkészítő selyemfestő babakészítő tojásfestő gobelinművész porcelántervező képző-és zománcműves
+42	karosszérialakatos géplakatos elektrotechnikus műszerész elektroműszerész
+43	dísznövénykertész parkgondozó
+44	kőműves szobafestő mázoló festő-mázoló tapétázó szobafestő-mázoló bútorasztalos
+45	körmös kozmetikus fodrász műkörmös pedikűrös manikűrös
+46	gasztroblogger mestercukrász szakács cukrász
+47	cipőkészítő ruhakészítő férfiszabó szabász varrónő cipész
+48	műkörömépítő testfestő dekoros fodrásztanuló dekoratőr kirakatrendező díszítő virágkereskedő virágkötő
+49	sminkes stylist hajszobrász mesterfodrász sminkmester
+50	divatfotós reklámfotós cipőtervező ékszertervező divattervező ruhatervező
+52	dizájner designer formatervező tervező
+53	építészmérnök építőmérnök építész tájépítész kerttervező kertépítő bútortervező belsőépítész lakberendező
+55	bábtervező látványtervező jelmeztervező díszlettervező
+56	képgrafikus díszítőszobrász díszítőfestő tárgytervező enteriőrtervező öltözéktervező textiltervező
+57	webdesigner arculattervező videóművész médiaművész művészetpedagógus plakáttervező könyvtervező tervezőgrafikus reklámgrafikus
+58	kékfestő üvegkészítő papírkészítő bronzműves fémműves
+59	műasztalos kelmefestő könyvkötő bútorkészítő kárpitos harangöntő hangszerkészítő orgonaépítő csokoládékészítő ékszerkészítő műbútorasztalos üvegműves üvegfestő porcelánfestő kerámikus vésnök üvegcsiszoló üvegfúvó
+60	szűrszabó gombkötő kocsigyártó szíjgyártó kerékgyártó kötélverő
+61	mézeskalács-készítő mézesbábos mézeskalácsos gyertyaöntő rézműves szappanfőző
+62	sörfőző sajtkészítő borkereskedő
+63	fegyverkovács hajóács fegyverkészítő puskaműves
+64	képfaragó kőfaragó kőmíves iparos mesterember céhmester cserzővarga
+65	gépgyáros asztalossegéd bányaigazgató főgeológus bányamester főgépész
+66	kereskedősegéd banktisztviselő bankigazgató
+67	főművezető gyárigazgató művezető segédmunkás magántisztviselő vájár vasesztergályos vasmunkás
+68	kereskedô posztókereskedő vegyeskereskedő szatócs fűszerkereskedő vaskereskedő fakereskedő
+69	inas írnok seborvos postamester gazdatiszt
+70	építőmester kőművesmester műépítész építészmester
+71	asztalos ács takácsmester szabómester cipészmester öntőmester pékmester kádármester lakatosmester kovácsmester ácsmester asztalosmester patkolókovács órásmester ezermester
+72	zenemester operarendező tenorista zongoravirtuóz pianista komponista librettista operaszerző operakomponista
+73	színházigazgató színigazgató karakterszínész jellemszínész sanzonénekes képregényrajzoló filmszínész művészember tanárember rajzművész könyvíró muzsikus jazz-zenész festőnövendék balett-táncos táncmester
+74	litográfus betűmetsző rézmetsző fametsző betűszedő nyomdatulajdonos könyvnyomtató tipográfus nyomdász
+75	antikvárius régiségkereskedő magángyűjtő galériatulajdonos műgyűjtő műkereskedő
+77	ötvösmester ékszerész ezüstműves aranyműves ötvös
+78	miniátor illuminátor kalligráfus freskófestő
+80	művész festő szobrász 
+81	karikaturista illusztrátor rajzoló
+82	fényképész filmoperatőr képzőművész fotóművész fotográfus
+83	állatfestő arcképfestő portréfestő akvarellista könyvillusztrátor
+84	kolorista kismester festész tájfestő tájképfestő piktor festőnő festőóriás életképfestő festőfejedelem
+85	kutyatenyésztő tenyésztő gyepmester
+86	inszeminátor állatgondozó lovasoktató kutyakiképző kutyatréner 
+90	lélekbúvár lélekgyógyász parapszichológus asztrológus grafológus
+91	párterapeuta szexuálterapeuta szexuálpszichológus szexológus
+92	pszichiáter pszichológus gyerekpszichológus gyermekpszichológus szakpszichológus hipnoterapeuta családterapeuta pszichoterapeuta
+93	akupunktőr orvos-természetgyógyász bioenergetikus fitoterapeuta dietetikus homeopata természetgyógyász
+94	sportpszichológus sportorvos fizikoterapeuta
+95	jógaoktató reflexológus gyógymasszőr masszőr gyógytornász terapeuta kineziológus talpmasszőr dévényes kiropraktőr csontkovács manuálterapeuta
+96	konduktor logopédus fejlesztőpedagógus gyógypedagógus
+97	művészetterapeuta zeneterapeuta életmód-tanácsadó mentálhigiénikus mozgásterapeuta pszichopedagógus
+98	lelkigondozó gyásztanácsadó családállító szupervízor
+99	szülész-nőgyógyász szülész szülészorvos
+100	neonatológus gyermekneurológus gyermekgyógyász gyermekpszichiáter szakállatorvos szakasszisztens szakgyógyszerész
+101	angiológus addiktológus infektológus allergológus
+102	ortopédsebész belgyógyász ideggyógyász neurológus onkológus immunológus érsebész idegsebész
+103	gyermeknőgyógyász tüdőgyógyász kardiológus gyermeksebész traumatológus mellkassebész kézsebész szívspecialista szívsebész kórboncnok klinikus patológus radiológus
+104	kozmetológus audiológus optometrista fogtechnikus dentálhigiénikus implantológus szájsebész fogszakorvos gyermekszemész szonográfus főorvosnő neurologus fül-orr gégész fülész nephrológus hepatológus gyerekgyógyász hematológus nefrológus diabetológus haematológus orr-fül-gégész ortopédus gastroenterológus fül-orr-gégész pulmonológus gasztroenterológus reumatológus urulógus andrológus urológus endokrinológus bõrgyógyász hajgyógyász proktológus madárspecialista szemspecialista kutyakozmetikus üzemorvos magánorvos labororvos altatóorvos aneszteziológus idegorvos elmeorvos elmegyógyász szemészorvos szemorvos szemész fogász optikus
+105	gyermekorvos gyerekorvos védőnő szülésznő doktornő
+107	gyógyszerész patikus
+108	kezelőorvos családorvos háziorvos szakorvos bőrgyógyász fogorvos nőgyógyász állatorvos orvos
+109	gyerekdoki dokinő dokibácsi doktorbácsi doktornéni dokinéni
+110	fogdoki magándoki nődoki házidoki
+112	hadnagy őrmester őrnagy ezredes százados főhadnagy
+113	törzsőrmester szakaszvezető századparancsnok őrvezető alhadnagy
+114	haditudósító repülőtiszt tengerésztiszt tüzértiszt katonaorvos vívómester hadmérnök
+115	huszárhadnagy ezredorvos törzsorvos lovastiszt huszárkapitány huszártiszt vitéz lovaskapitány tűzmester brigadéros
+116	táborparancsnok szárnysegéd káplár tisztiszolga
+117	közkatona altiszt főtiszt törzstiszt katonatiszt tiszt katona
+118	magándetektív detektív rendőrfelügyelő rendőrtiszt rendőrnyomozó
+119	kém titkosügynök kalózkapitány kalandor
+120	rablóvezér zsoldosvezér nemesember nemesúr parasztfiú kurtizán
+121	nevelőnő komornyik főkomornyik
+122	báró huszárezredes
+123	koronaherceg
+124	sorhajókapitány altengernagy ellentengernagy admirális tengernagy fregattkapitány korvettkapitány sorhajóhadnagy
+125	hajóstiszt dokkmunkás tengerész matróz hajóorvos tengerészkapitány hajóskapitány másodkapitány fedélzetmester hajósinas
+130	hírszerzőtiszt ászpilóta
+132	atomtudós kozmonauta
+135	ENSZ-katona ENSZ-békefenntartó NATO-katona segélymunkás
+136	felderítő utász hegyivadász
+137	helikopterpilóta vadászpilóta deszantos haditengerész tengerészgyalogos kadét kiképzőtiszt elitkatona zöldsapkás dezertőr
+138	légionárius gurka SS-katona SS-tiszt frontkatona katonanő
+144	jegybank-elnök MNB-elnök pénzügyminiszter jegybankelnök
+145	pénzügyér gazdaságpolitikus tőzsdeelnök bankelnök bankvezető bankvezér
+146	EU-biztos agrárminiszter EP-képviselő biztosjelölt
+147	pénzügyminiszter-helyettes főtárgyaló EU-nagykövet miniszterelnök-helyettes kormányfőhelyettes kormányfő-helyettes külügyér kormányfõ miniszerelnök
+148	diplomata újságíró külügyminiszter nagykövet
+149	belügyminiszter miniszterelnök kormányfő házelnök államelnök államfő
+150	kormányzó tábornok igazságügy-miniszter igazságügyminiszter államminiszter alkancellár kancellár
+153	vezérigazgató főtitkár alelnök elnök
+155	tárcavezető szakminiszter szakállamtitkár miniszter államtitkár kormányszóvivő főpolgármester kormánybiztos
+156	kormánytag politikus honatya
+157	miniszterelnök-jelölt frakcióvezető pártelnök miniszterjelölt szakpolitikus kancelláriaminiszter kabinetfőnök
+158	pszichológiaprofesszor segédprofesszor szociológiaprofesszor fizikaprofesszor biológiaprofesszor pszichológusprofesszor
+169	agrárközgazdász adószakértő nyugdíjszakértő
+170	szociálpolitikus közgazdász-szociológus jogász közgazdász szociológus politológus alkotmányjogász büntetőjogász kriminológus
+171	jegybankár elemző szekértő szakíró szaktekintély kutató szakértő szakember
+172	cégvezető vállalatvezető üzletember bankár stratéga tőzsdeguru bankszakember
+173	marketingszakember reklámszakember médiaszakértő médiaszakember
+174	közgazdás makroközgazdász közgazda közgaszdász
+175	ufókutató ufológus rádiócsillagász szeizmológus vulkanológus napfizikus tudosó  klímatudós klímaszkeptikus meteorológus éghajlatkutató klímaszakértő klimatológus klímakutató
+176	pszichológusnő kutatónő
+177	sarkkutató óceánkutató tengerkutató
+178	paleoantropológus őslénykutató paleontológus főemlőskutató glaciológus asztrobiológus geokémikus tengerbiológus oceanográfus asztrofizikus
+179	génkutató gyógyszerkutató rákkutató viselkedéskutató
+180	számítógéptudós neurofiziológus orvoskutató idegtudós idegkutató
+181	táplálkozás-szakértő táplálkozástudós táplálkozáskutató
+182	dermatológus gerontológus bioetikus neuropszichológus alvásszakértő alváskutató kutatásvezető epidemiológus virológus
+183	ökológus entomológus zoológus biológus evolúcióbiológus etológus herpetológus halbiológus
+184	professzornő professzor vegyészprofesszor orvos-biológus sejtkutató embriológus agykutató neurobiológus sejtbiológus kutatóorvos biokémikus mikrobiológus farmakológus biofizikus
+185	Oroszország-szakértő közgazdász-professzor nyelvészprofesszor történészprofesszor közgazdászprofesszor jogászprofesszor
+186	orvosdoktor orvostanár orvosprofesszor sebészprofesszor orvostudós bakteriológus anatómus fiziológus orvos-kutató ókortudós ókortörténész orvostörténész
+187	antropológus etnológus szociálpszichológus kultúrantropológus
+188	tudománytörténész tudományfilozófus politikatudós társadalomtudós gazdaságtörténész
+189	jövőkutató futurológus társadalomkutató magatartáskutató demográfus
+190	fizikus matematikus kémikus vegyész kriptográfus statisztikus kvantumfizikus kozmológus magfizikus részecskefizikus
+191	régész archeológus egyiptológus
+192	felfedező asztronómus csillagász természetkutató tudós természettudós
