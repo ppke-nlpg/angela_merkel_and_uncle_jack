@@ -186,7 +186,7 @@
 185	Oroszország-szakértő közgazdász-professzor nyelvészprofesszor történészprofesszor közgazdászprofesszor jogászprofesszor
 186	orvosdoktor orvostanár orvosprofesszor sebészprofesszor orvostudós bakteriológus anatómus fiziológus orvos-kutató ókortudós ókortörténész orvostörténész
 187	antropológus etnológus szociálpszichológus kultúrantropológus
-188	tudománytörténész tudományfilozófus politikatudós társadalomtudós gazdaságtörténész
+188	tudománytörtfogénész tudományfilozófus politikatudós társadalomtudós gazdaságtörténész
 189	jövőkutató futurológus társadalomkutató magatartáskutató demográfus
 190	fizikus matematikus kémikus vegyész kriptográfus statisztikus kvantumfizikus kozmológus magfizikus részecskefizikus
 191	régész archeológus egyiptológus
