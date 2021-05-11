@@ -1,100 +1,95 @@
 13	Parsons	asszony
-13	Varga_Mihály	pénzügyminiszter
-11	Orbán_Viktor	miniszterelnök
+13	Varga Mihály	pénzügyminiszter
+11	Orbán Viktor	miniszterelnök
 10	Ogilvy	elvtárs
-10	St._Antonio	herceg
+10	St. Antonio	herceg
 8	Fernandez	régensherceg
-8	tanár	úr
 6	Laci	atya
 6	Pista	bácsi
-6	St._Antonio	főherceg
+6	St. Antonio	főherceg
 6	Wirth	kapitány
 5	Croesus	csoport
 5	Palmerston	tanár
 5	Pataki	úr
-5	Szabó_József	gyerekhősről
+5	Szabó József	gyerekhősről
 4	Allianz	biztosító
 4	Anati	professzor
-4	Dow_Jones	hírügynökség
+4	Dow Jones	hírügynökség
 4	Fernandez	régens
 4	Giglioli	professzor
-4	Járai_Zsigmond	pénzügyminiszter
+4	Járai Zsigmond	pénzügyminiszter
 4	Java	alkalmazások
-4	Jean-Marie_Messier	vezérigazgatót
+4	Jean-Marie Messier	vezérigazgatót
 4	José	pincér
-4	Martonyi_János	külügyminiszter
-4	miniszter	asszony
+4	Martonyi János	külügyminiszter
 4	Moody's	hitelminősítő
 4	NTFS	állományrendszer
 4	Reuters	hírügynökség
 4	Ring	néni
-4	tanár	néni
-4	Torgyán_József	miniszter
+4	Torgyán József	miniszter
 4	Zoli	bácsi
-3	Áder_János	házelnök
+3	Áder János	házelnök
 3	ADSL	technológia
 3	Apache	webkiszolgáló
 3	Aral	benzinkutat
-3	Borókai_Gábor	kormányszóvivő
+3	Borókai Gábor	kormányszóvivő
 3	Csáky	külügyminiszter
 3	Családnet	program
 3	DJIA	index
 3	Ellesley	doktor
 3	Gabi	bácsi
-3	Generali_Vienna	csoport
+3	Generali Vienna	csoport
 3	Gesztenyefa	kávéház
 3	Hutchins	fűtő
-3	II._János_Pál	pápa
+3	II. János Pál	pápa
 3	Interfax	hírügynökség
 3	Kapitány	úr
 3	Laci	bácsi
 3	Marika	néni
-3	miniszter	úr
 3	Nasdaq	piac
 3	Nikkei225	index
 3	Oracle	adatbázis-kezelő
-3	Orbán_Viktor	kormányfő
+3	Orbán Viktor	kormányfő
 3	Patkó	bácsi
-3	Pentium_4	processzor
+3	Pentium 4	processzor
 3	Pjandzs	folyóba
 3	Pjandzs	határátkelőhelyről
-3	Ron_Sommer	vezérigazgató
-3	Rotch_Energy_Limited	céget
-3	Sugár_András	vezérigazgató
-3	Viktor_Csernomirgyin	exkormányfő
-3	Vivendi_Universal	médiacsoport
+3	Ron Sommer	vezérigazgató
+3	Rotch Energy Limited	céget
+3	Sugár András	vezérigazgató
+3	Viktor Csernomirgyin	exkormányfő
+3	Vivendi Universal	médiacsoport
 3	WAP	böngésző
 3	Zsóka	néni
-2	Abu_Sayyaf	terroristacsoportot
+2	Abu Sayyaf	terroristacsoportot
 2	Ági	néni
-2	alezredes	úr
 2	Altera	chipgyártó
 2	Andrássy	gróftól
 2	Árkád	üzletházban
-2	Aspetti_della_morte	címen
+2	Aspetti della morte	címen
 2	Avanti	cégtől
 2	AXA	biztosító
-2	Balázs_Imi	bácsinál
+2	Balázs Imi	bácsinál
 2	Barbai	úr
 2	BB	részvénycsomagot
-2	Bécs_Budapest_-_Wien_Budapest_2000	címmel
-2	Bentley_ProjectWise	rendszerre
+2	Bécs Budapest - Wien Budapest 2000	címmel
+2	Bentley ProjectWise	rendszerre
 2	Berkeley	egyetemen
 2	BMC	szoftverszolgáltató
-2	Buda-Cash_Signal	néven
+2	Buda-Cash Signal	néven
 2	Bükk	hegységben
-2	Búzás_Gergely	muzeológustól
+2	Búzás Gergely	muzeológustól
 2	Cegetel	mobilszolgáltató
 2	Celeron	processzor
-2	Charing_Cross	állomásra
+2	Charing Cross	állomásra
 2	Chirac	elnök
-2	Cisco_Expo_2000	konferencián
+2	Cisco Expo 2000	konferencián
 2	Clinton	elnök
 2	Cogne	cég
-2	Computex_2002	kiállításon
-2	Credit_Suisse	csoport
-2	Csáky_István	külügyminiszter
-2	Don_Raffaello	pizzériába
+2	Computex 2002	kiállításon
+2	Credit Suisse	csoport
+2	Csáky István	külügyminiszter
+2	Don Raffaello	pizzériába
 2	Dreina	templomba
 2	Enterprise	kiszolgálóra
 2	Ernő	bá
@@ -102,51 +97,51 @@
 2	Eurohypo	néven
 2	Fernandez	herceg
 2	Fernandez	néven
-2	Fernandez_di_St._Antonio	régensherceggel
+2	Fernandez di St. Antonio	régensherceggel
 2	Fertőboz	állomásig
-2	Frischmann_Gábor	elnöktől
+2	Frischmann Gábor	elnöktől
 2	Gabi	szappant
 2	Gabi	termékcsaládnál
-2	Gánt-Kő_és_Tőzeg_Kft.	néven
-2	Gary_Kasparov	sakkvilágbajnokot
+2	Gánt-Kő és Tőzeg Kft.	néven
+2	Gary Kasparov	sakkvilágbajnokot
 2	Gemma	sorort
 2	Géza	bácsi
-2	Gold_Partner	minősítést
-2	HBW_Express	takarékpénztártól
+2	Gold Partner	minősítést
+2	HBW Express	takarékpénztártól
 2	Hedvig	nővér
 2	Hertha-Barcelona	mérkőzést
 2	Heves	megyében
-2	HLA_Global	néven
-2	Horváth_and_Partner	céget
-2	Hűséges_Almák	néven
-2	HVB_Croatia	néven
-2	HVB_Hungary_Rt.	néven
+2	HLA Global	néven
+2	Horváth and Partner	céget
+2	Hűséges Almák	néven
+2	HVB Croatia	néven
+2	HVB Hungary Rt.	néven
 2	Hyundai	cég
-2	IKB_Deutsche_Industriebank_AG	bankkal
+2	IKB Deutsche Industriebank AG	bankkal
 2	Intel-PRO/100+	hálózatadapterről
 2	Izrael	állam
-2	Izrael_az_otthonunk	névvel
-2	Janesch_Péter	építésszel
-2	Járai_Zsigmond	MNB-elnök
+2	Izrael az otthonunk	névvel
+2	Janesch Péter	építésszel
+2	Járai Zsigmond	MNB-elnök
 2	Jelcin	elnök
 2	Józsi	bácsi
 2	Jukosz	olajtársaság
-2	Jurij_Szkuratov	főügyészt
-2	Kannibál_Béby	néven
+2	Jurij Szkuratov	főügyészt
+2	Kannibál Béby	néven
 2	Kassa-Nagyszalánc-Velejte	vasútvonalat
 2	Kata	nénihez
 2	Kerepesi	temetőben
 2	KfW	bankkal
-2	Kien_Giang	tartomány
+2	Kien Giang	tartomány
 2	Kőbánya-felső	állomásra
-2	Kodaj_Károly	rendszermérnöktől
-2	Kolláth_György	vezérigazgató
+2	Kodaj Károly	rendszermérnöktől
+2	Kolláth György	vezérigazgató
 2	Komintern	szó
-2	Kovács_Attila	elnök
-2	Krőzsel_Károly	ezredes
-2	László_Csaba	pénzügyminiszter
+2	Kovács Attila	elnök
+2	Krőzsel Károly	ezredes
+2	László Csaba	pénzügyminiszter
 2	Lemberg	megyében
-2	Lotus_LearningSpace	szoftverrel
+2	Lotus LearningSpace	szoftverrel
 2	Macintosh	géphez
 2	Majláth	országbírót
 2	Massachusetts	államban
@@ -154,70 +149,69 @@
 2	Mazlum-Der	alapítványnak
 2	Mercedes-Benz	gépkocsi
 2	Michele	nevet
-2	Mihail_Kaszjanov	pénzügyminiszter
-2	Múzeumok_majálisa	címmel
+2	Mihail Kaszjanov	pénzügyminiszter
+2	Múzeumok majálisa	címmel
 2	Napkelet	királyfi
-2	Nasdaq_Composite	index
-2	Nasdaq_Europe	néven
+2	Nasdaq Composite	index
+2	Nasdaq Europe	néven
 2	Netanjahu	miniszterelnök
 2	Panasonic	noteszgépet
 2	Pec	városban
 2	Pentium	processzor
-2	Perner_Ferenc	professzorral
+2	Perner Ferenc	professzorral
 2	Piquemal	tábornok
-2	PlayStation_2	játékkonzolból
+2	PlayStation 2	játékkonzolból
 2	Pólus	bevásárlóközpontokat
 2	Pong	néven
-2	Private_Storage_Utility	néven
-2	Professional_Services_Partner	fokozattal
-2	professzor	úr
+2	Private Storage Utility	néven
+2	Professional Services Partner	fokozattal
 2	QoS	szolgáltatásokat
 2	Radzeer	cirkálót
-2	Region_Kontakt	néven
+2	Region Kontakt	néven
 2	Reichardt	család
-2	Rolling_Stones_hivatalos_pornográfusa	címmel
-2	Rupert_Murdoch	médiamágnást
+2	Rolling Stones hivatalos pornográfusa	címmel
+2	Rupert Murdoch	médiamágnást
 2	SAP	szoftvergyártó
 2	SAP	szoftverház
-2	Seattle_Coffee	kávébárláncot
+2	Seattle Coffee	kávébárláncot
 2	Shell	kútnál
 2	SITA	hírügynökség
-2	Staatsdruckereit_és_a_Dorotheum	aukciósházat
-2	Standard_and_Poor's	hitelminősítő
-2	Swiss_Re	viszontbiztosítónál
-2	Számalk_Kereskedőház_Rt.	néven
-2	Száraz_Laci	atyához
-2	Szent_Mihály	arkangyal
-2	Teleki_Pál	miniszterelnök
+2	Staatsdruckereit és a Dorotheum	aukciósházat
+2	Standard and Poor's	hitelminősítő
+2	Swiss Re	viszontbiztosítónál
+2	Számalk Kereskedőház Rt.	néven
+2	Száraz Laci	atyához
+2	Szent Mihály	arkangyal
+2	Teleki Pál	miniszterelnök
 2	Tesco	áruházban
-2	Theodore_Roosevelt	repülőgép-hordozót
+2	Theodore Roosevelt	repülőgép-hordozót
 2	Trastevere	negyedben
 2	Trebitsch	úron
-2	Tüske_Borika	nénivel
-2	TV_Sziget	néven
-2	Unicredito_Italiano	bankházzal
+2	Tüske Borika	nénivel
+2	TV Sziget	néven
+2	Unicredito Italiano	bankházzal
 2	V-fon	névvel
-2	Vastag_Sapka	címmel
-2	Vég_Tibor	ügyvéd
-2	Viktor_Juscsenko	kormányfő
-2	Visa_Classic	hitelkártya
+2	Vastag Sapka	címmel
+2	Vég Tibor	ügyvéd
+2	Viktor Juscsenko	kormányfő
+2	Visa Classic	hitelkártya
 2	Volvo	szakműhelyt
-2	Vörös_Félhold	szervezetnek
+2	Vörös Félhold	szervezetnek
 2	Warins	kalózt
-2	Warins_Bob	néven
+2	Warins Bob	néven
 2	Wright	fivérek
 2	XML	formátumot
 2	Zaporozsje	megyeszékhelyen
 2	Zetor	traktorgyárat
 1	A	osztály
-1	Abbey_National	bankot
-1	Abbott_Laboratories	gyógyszergyártó
-1	ABN_Amro	bank
-1	ABN_Amro	pénzintézet
-1	ABN_Amro_Holding	pénzintézet
+1	Abbey National	bankot
+1	Abbott Laboratories	gyógyszergyártó
+1	ABN Amro	bank
+1	ABN Amro	pénzintézet
+1	ABN Amro Holding	pénzintézet
 1	Acesa	fizetőút-üzemeltető
-1	Aczél_Gábor	igazgató
-1	Ádám_József	klubigazgató
+1	Aczél Gábor	igazgató
+1	Ádám József	klubigazgató
 1	Adidas	póló
 1	Adobe	felirat
 1	ADSL	internetkapcsolat
@@ -228,9 +222,9 @@
 1	Aeroflot	légitársaság
 1	Agnelli	család
 1	Agrana	konszern
-1	Aigner_Szilárd	meteorológus
-1	Airbus_A380	repülőgépek
-1	Albert_Sabin	virológus
+1	Aigner Szilárd	meteorológus
+1	Airbus A380	repülőgépek
+1	Albert Sabin	virológus
 1	Alfa	projekt
 1	Allegra	antiallergén
 1	Allianz	biztosítótársaság
@@ -240,168 +234,167 @@
 1	Alvarez	elnök
 1	Amadinda	együttessel
 1	Ambien	altatótabletta
-1	Anatolij_Kinah	kormányfő
+1	Anatolij Kinah	kormányfő
 1	Anett	néni
-1	Antenna_Hungária	csoport
-1	Anti_Blocking_System	néven
-1	António_Felizardo	vezérigazgató-helyettestől
+1	Antenna Hungária	csoport
+1	Anti Blocking System	néven
+1	António Felizardo	vezérigazgató-helyettestől
 1	AOLTV	szolgáltatás
 1	AP	hírügynökség
 1	APA	hírügynökség
 1	Apache	webszerver
 1	Apolló	űrhajó
-1	Appliance_Components_Companies	részvénytársaságnak
+1	Appliance Components Companies	részvénytársaságnak
 1	Aquila	közszolgáltató
-1	Arató_Zsolt	sajtófőnök
+1	Arató Zsolt	sajtófőnök
 1	ArchLine	szoftverről
 1	Árkád	bevásárlóközpont
 1	Arkan	kapitányt
 1	Art-Show	stúdió
 1	Athenaeum	nyomda
 1	ATI	kártya
-1	ATM/Frame_Relay	gerinchálózat
+1	ATM/Frame Relay	gerinchálózat
 1	Auchan	áruház
 1	Audi	modellt
-1	Audi_AG	luxusautó-gyártó
+1	Audi AG	luxusautó-gyártó
 1	autóimportőr	cég
 1	Axa	biztosítótársaság
-1	AXA_Colonia	biztosító
+1	AXA Colonia	biztosító
 1	BA	légitársaság
 1	Baath	párt
 1	Bács-Kiskun	megyében
-1	Bálint_Sándor	őrnagy
-1	bank	szó
+1	Bálint Sándor	őrnagy
 1	Bankgesellschaft	pénzintézet
-1	Baross_tér_13.	szám
-1	Bartha_András	elnök-vezérigazgató
-1	Bathó_Ferenc	főcsoportfőnök
+1	Baross tér 13.	szám
+1	Bartha András	elnök-vezérigazgató
+1	Bathó Ferenc	főcsoportfőnök
 1	BBL-ING	bank
 1	Bea	néni
 1	Beatles	együttes
 1	Beck	sörgyár
-1	Beck_György	vezérigazgató
-1	Bedő_Erik	vezérigazgató
-1	Bel_Paese	sajtot
+1	Beck György	vezérigazgató
+1	Bedő Erik	vezérigazgató
+1	Bel Paese	sajtot
 1	Bellus	néni
-1	Benjamin_Netanjahu	miniszterelnök
-1	Benkő_Gábor	képviselő
+1	Benjamin Netanjahu	miniszterelnök
+1	Benkő Gábor	képviselő
 1	Béres	csoport
-1	Bergbauholding_ÖBAG	bányavállalkozás
-1	Bernáth_János	polgármester
+1	Bergbauholding ÖBAG	bányavállalkozás
+1	Bernáth János	polgármester
 1	Bertelsmann	cég
 1	Bertelsmann	család
 1	Bertelsmann	médiacsoport
 1	BETA	hírügynökség
-1	Bill_Clinton	elnök
+1	Bill Clinton	elnök
 1	Bloomberg	hírügynökség
 1	Bloomsbury	negyedben
 1	BMW	cég
 1	BMW	márka
 1	Boeing	utasszállítót
 1	Bokros	pénzügyminiszter
-1	Borisz_Jelcin	elnök
-1	Borókai_László	ügyvéd
+1	Borisz Jelcin	elnök
+1	Borókai László	ügyvéd
 1	BorsodChem	közgyűlés
-1	Bory_Jenő	szobrászművész
-1	Böszörményi_László	igazgató
-1	Bozóky_Imre	MLSZ-elnök
+1	Bory Jenő	szobrászművész
+1	Böszörményi László	igazgató
+1	Bozóky Imre	MLSZ-elnök
 1	Bozsik	névtől
-1	Braun_Róbert	vezérigazgató-helyettes
+1	Braun Róbert	vezérigazgató-helyettes
 1	Bricostore	barkácsáruház
-1	Bristol-Myers_Squibb	gyógyszergyár
-1	British_Nuclear_Fuels_Plc.	társasággal
+1	Bristol-Myers Squibb	gyógyszergyár
+1	British Nuclear Fuels Plc.	társasággal
 1	Brown	úr
-1	Bruno_Bulthé	vizsgálóbíró
+1	Bruno Bulthé	vizsgálóbíró
 1	BSkyB	médiavállalkozás
-1	Buda_Béla	pszichiáter
+1	Buda Béla	pszichiáter
 1	Byrd	kapitánnyal
 1	CandA	áruházlánc
 1	Candy	márka
-1	Carlos_Ghosn	vezérigazgató
-1	Carly_Fiorina	elnök-vezérigazgató
+1	Carlos Ghosn	vezérigazgató
+1	Carly Fiorina	elnök-vezérigazgató
 1	Carrefour	hipermarketlánc
 1	Center	pálya
 1	CEZ	áramszolgáltató
-1	Charles_Schwab	brókercég
-1	Christian_Noyer	alelnök
-1	Chuck_Yeager	pilóta
+1	Charles Schwab	brókercég
+1	Christian Noyer	alelnök
+1	Chuck Yeager	pilóta
 1	Ciano	külügyminiszter
-1	Cirrus_Maestro	kártyát
+1	Cirrus Maestro	kártyát
 1	Cisco	eszközök
 1	Cisco	rendszer
-1	CiscoWorks_2000	hálózatmenedzsment
+1	CiscoWorks 2000	hálózatmenedzsment
 1	Citroën	személyautók
 1	Claas	betakarítógépek
-1	Clearstream_Banking_AG	letétkezelő
+1	Clearstream Banking AG	letétkezelő
 1	Coca-Cola	üveg
 1	Com-Ware	kiadó
-1	Commodore_64	számítógép
+1	Commodore 64	számítógép
 1	Cora	hipermarket
 1	Corvin-Szigony	beruházás
-1	Credit_Suisse	bankcsoport
+1	Credit Suisse	bankcsoport
 1	Croesus	név
 1	Crown	farmernadrág
 1	Családnet	PC-program
-1	Csányi_Klára	főosztályvezető
-1	Cseh-Szombathy_László	családszociológus
-1	Csisztu_Zsuzsa	sportriporter
-1	Csonka_Dezső	rendszermérnök
+1	Csányi Klára	főosztályvezető
+1	Cseh-Szombathy László	családszociológus
+1	Csisztu Zsuzsa	sportriporter
+1	Csonka Dezső	rendszermérnök
 1	CTK	hírügynökség
-1	Czikó_Gábor	elnök-vezérigazgató
+1	Czikó Gábor	elnök-vezérigazgató
 1	D	csoport
 1	D	meghajtó
-1	Daewoo_FSO	autógyár
-1	Daewoo_Securities	értékforgalmazó
+1	Daewoo FSO	autógyár
+1	Daewoo Securities	értékforgalmazó
 1	Daewoo-FSO	autógyár
 1	DaimlerChrysler	autógyár
 1	Damjanich	zászlóalj
-1	Daniel_T._arap_Moi	elnök
+1	Daniel T. arap Moi	elnök
 1	Datamedia	közvélemény-kutató
-1	David_Wilby	tábornok
+1	David Wilby	tábornok
 1	DAX	részvényindex
-1	Deák_László	elnök-vezérigazgató
-1	Deceban_Traian_Remes	pénzügyminiszter
+1	Deák László	elnök-vezérigazgató
+1	Deceban Traian Remes	pénzügyminiszter
 1	Delaware	államban
 1	Delhaize	szupermarketlánc
 1	Dell	gépet
 1	Dell	számítógépgyártó
 1	Dentsu	reklámcég
 1	Dessewffy	utcák
-1	Dicső_Anikó	riporter
+1	Dicső Anikó	riporter
 1	DJIA	részvényindex
-1	Dobóczky_András	vezérigazgató
-1	Dobson_Tibor	szóvivő
+1	Dobóczky András	vezérigazgató
+1	Dobson Tibor	szóvivő
 1	Dow	index
 1	Dubcek	család
-1	Duna_Plaza	bevásárlóközpont
-1	Edgardo_Boeninger	szenátor
+1	Duna Plaza	bevásárlóközpont
+1	Edgardo Boeninger	szenátor
 1	Edge	név
-1	Edward_Rydz-Smygly	marsall
-1	El_Nino	hurrikán
-1	Eli_Lilly	gyógyszergyártó
+1	Edward Rydz-Smygly	marsall
+1	El Nino	hurrikán
+1	Eli Lilly	gyógyszergyártó
 1	elnök	asszony
 1	Emil	atya
 1	Enron	energia-nagykereskedő
 1	Eravis	részvények
-1	Erdész_András	elnök-vezérigazgató
+1	Erdész András	elnök-vezérigazgató
 1	Eros	isten
 1	Erzsébet	tér
 1	Euronext	tőzsdevállalkozás
 1	Ewering	szenátorné
-1	Excel_2000	kurzus
-1	Fájlok_törlése	parancsgomb
+1	Excel 2000	kurzus
+1	Fájlok törlése	parancsgomb
 1	Family	sörözőbe
 1	Fanta	üdítőt
 1	FAT	állományrendszerrel
-1	Fathom_Technology	társaságba
+1	Fathom Technology	társaságba
 1	Fed	elnök
-1	Fehér_Márta	filozófus
+1	Fehér Márta	filozófus
 1	Fejér	megyében
-1	Fejes_Pista	bácsi
-1	Fekete_Lajos	tanár
-1	Feldmájer_Péter	ügyvéd
+1	Fejes Pista	bácsi
+1	Fekete Lajos	tanár
+1	Feldmájer Péter	ügyvéd
 1	Feleséged	őnagysága
-1	Felkészítő_Napok	rendezvénysorozat
+1	Felkészítő Napok	rendezvénysorozat
 1	Ferenc	császár
 1	Ferenczy	kiadó
 1	Fernandez	bácsi
@@ -411,72 +404,69 @@
 1	Fitch	hitelminősítő
 1	FlatStack	technológia
 1	FlatStack	vezérlőmodul
-1	Fodor_Lajos	vezérezredes
+1	Fodor Lajos	vezérezredes
 1	Fortune	magazin
-1	főtitkár	asszony
 1	Frei	elnök
-1	Fritz_Schaudinn	zoológus
-1	FTSK_Excelsior_SE	hegymászó
-1	Fuji_Heavy_Industries	csoport
-1	Fülöp_Ferenc	klubigazgató
+1	Fritz Schaudinn	zoológus
+1	FTSK Excelsior SE	hegymászó
+1	Fuji Heavy Industries	csoport
+1	Fülöp Ferenc	klubigazgató
 1	Fundamenta	lakás-takarékpénztár
-1	Furmann_Imre	ügyvéd
-1	Futó_Iván	főszerkesztő
+1	Furmann Imre	ügyvéd
+1	Futó Iván	főszerkesztő
 1	Gabriella	novíciát
 1	Gabriella	soror
-1	Gaidosch_Tamás	menedzser
-1	Garadnai_Róbert	adattárház-menedzsertől
-1	Garamvölgyi_László	ezredes
+1	Gaidosch Tamás	menedzser
+1	Garadnai Róbert	adattárház-menedzsertől
+1	Garamvölgyi László	ezredes
 1	Gaskó	úr
 1	Gdansk	város
-1	Gémesi_István	dandártábornok
+1	Gémesi István	dandártábornok
 1	Gente	hetilap
-1	Georges_Mathé	onkológus
-1	Gerard_Mortier	igazgató
-1	Gerhard_Domagk	patológus
-1	Gerhardt_Ferenc	vezérigazgató
+1	Georges Mathé	onkológus
+1	Gerard Mortier	igazgató
+1	Gerhard Domagk	patológus
+1	Gerhardt Ferenc	vezérigazgató
 1	Globus	közgyűlés
-1	Gold_Record	kiadó
+1	Gold Record	kiadó
 1	Gombperec	úr
 1	Gomperez	hídlakót
-1	Göncz_Árpád	államfő
+1	Göncz Árpád	államfő
 1	Gondvána	szuperkontinens
-1	Gordon_Brown	pénzügyminiszter
+1	Gordon Brown	pénzügyminiszter
 1	GPRS	technológiára
 1	Greenwood	tanár
 1	GSM	hálózat
 1	GSM/DCS	infrastruktúra
-1	GTS_Central_Europe	cégcsoport
+1	GTS Central Europe	cégcsoport
 1	Guardian	napilap
-1	Gy._Zs.	monogram
-1	Győri_Gábor	rendszermérnök
+1	Gy. Zs.	monogram
+1	Győri Gábor	rendszermérnök
 1	Gyula	bácsi
-1	H._János	poggyászkocsi-kezelő
-1	Halász_Sándor	vezérigazgató-helyettes
-1	Halbauer_János	ügyvezető
-1	Halmos_Gábor	vezérigazgató
-1	halőr	bácsi
-1	Hans_Eichel	pénzügyminiszter
-1	Harkányi_Gábor	projektvezető
-1	Harvard_Mark_I.	számítógép
+1	H. János	poggyászkocsi-kezelő
+1	Halász Sándor	vezérigazgató-helyettes
+1	Halbauer János	ügyvezető
+1	Halmos Gábor	vezérigazgató
+1	Hans Eichel	pénzügyminiszter
+1	Harkányi Gábor	projektvezető
+1	Harvard Mark I.	számítógép
 1	Head	sportszergyártó
 1	Hedvig	soror
-1	Heinz_Sundt	TA-vezérigazgató
-1	Helga_Rabl-Stadler	asszonnyal
-1	Hellen_Omwando	elemző
-1	Helsingin_Sanomat	napilap
-1	herceg	őfelsége
-1	Hernádi_Miklós	szociológus
+1	Heinz Sundt	TA-vezérigazgató
+1	Helga Rabl-Stadler	asszonnyal
+1	Hellen Omwando	elemző
+1	Helsingin Sanomat	napilap
+1	Hernádi Miklós	szociológus
 1	Heusch	kapitányt
 1	Hezbollah	szervezet
 1	Hilton	szálloda
 1	Homoktövis	lakópark
-1	Hónig_Péter	vezérigazgatót
-1	Horn_Gyula	miniszterelnök
+1	Hónig Péter	vezérigazgatót
+1	Horn Gyula	miniszterelnök
 1	Horthy	kormányzó
-1	Horváth_Gergely	vezérigazgató
-1	Horváth_Iván	ügyvéd
-1	Horváth_Mária	kötvényes
+1	Horváth Gergely	vezérigazgató
+1	Horváth Iván	ügyvéd
+1	Horváth Mária	kötvényes
 1	Hrisztyenko	miniszterelnök-helyettes
 1	HTC-Jorgosz	botrány
 1	HTC-Jorgosz	cégcsoport
@@ -486,22 +476,22 @@
 1	IBM	processzor
 1	IIS	webszerverek
 1	Ikarus	buszok
-1	Illés_Antal	ügyvezető
-1	Illés_Zoltán	Fidesz-alelnök
+1	Illés Antal	ügyvezető
+1	Illés Zoltán	Fidesz-alelnök
 1	INA	hírügynökség
 1	Infineon	chipgyártó
 1	ING	bankcsoport
-1	ING_Groep_NV	bankcsoport
+1	ING Groep NV	bankcsoport
 1	Inktomi	cég
 1	Intel	cégnek
 1	Intel	félvezetőgyártó
 1	Intel	technológia
-1	Intel_Pentium_III	processzor
-1	Intel_Pentium-III	processzor
+1	Intel Pentium III	processzor
+1	Intel Pentium-III	processzor
 1	IntelliEye	technológia
 1	InterCity	szerelvények
-1	Interseas_Editions	kiadó
-1	Investicna_a_Rozvojova_Banka	pénzintézetre
+1	Interseas Editions	kiadó
+1	Investicna a Rozvojova Banka	pénzintézetre
 1	Investkredit	csoport
 1	IPX/SPX	protokollrendszer
 1	IRB	bank
@@ -515,188 +505,180 @@
 1	Iza	néni
 1	Jackson	tábornok
 1	Jaki	szerepjáték
-1	Jan_Kavan	külügyminiszter
-1	Jancsó_Péter	Graboplast-vezér
-1	Janne_Haaland_Matlary	szociológus
+1	Jan Kavan	külügyminiszter
+1	Jancsó Péter	Graboplast-vezér
+1	Janne Haaland Matlary	szociológus
 1	János	bácsi
-1	János_Pál	pápa
-1	Jászai_Pál	történész
-1	Játékvilág_Magyarországon	címmel
+1	János Pál	pápa
+1	Jászai Pál	történész
+1	Játékvilág Magyarországon	címmel
 1	Java	futtatókörnyezet
 1	Java	technológiákkal
-1	Javier_Solana	NATO-főtitkár
-1	Jean_Lamierre	elnök
-1	Jean_Lemierre	bankelnök
-1	Jean-Pierre_Chevenement	belügyminiszter
+1	Javier Solana	NATO-főtitkár
+1	Jean Lamierre	elnök
+1	Jean Lemierre	bankelnök
+1	Jean-Pierre Chevenement	belügyminiszter
 1	Jelcin	család
-1	Jelena_Kondakova	űrhajósnő
+1	Jelena Kondakova	űrhajósnő
 1	Jervelino	miniszter
-1	Jil_Sander	divatmárkák
-1	Johannes_Dietz	ÖIAG-igazgató
-1	John_Sidgmore	elnök-vezérigazgató
+1	Jil Sander	divatmárkák
+1	Johannes Dietz	ÖIAG-igazgató
+1	John Sidgmore	elnök-vezérigazgató
 1	Jolantha	soror
-1	Jorge_Faliba	atya
-1	Joshua_Hallford	elemző
-1	Josihiro_Nakama	professzor
+1	Jorge Faliba	atya
+1	Joshua Hallford	elemző
+1	Josihiro Nakama	professzor
 1	Juci	nénihez
 1	Julianus	barát
-1	Jupiter_Media_Metrix	kutatóintézet
-1	Jürgen_Schrempp	vezérigazgató
-1	Jurij_Balujevszkij	vezérezredes
-1	Jurij_Lvov	pénzügyminiszter-helyettes
+1	Jupiter Media Metrix	kutatóintézet
+1	Jürgen Schrempp	vezérigazgató
+1	Jurij Balujevszkij	vezérezredes
+1	Jurij Lvov	pénzügyminiszter-helyettes
 1	Jutka	néni
 1	K+F	pénzalapok
-1	Kádár_János_Miklós	festőművész
-1	kapitány	úr
-1	Karl_Landsteiner	patológus
-1	Karl-Heinz_Grasser	pénzügyminiszter
-1	karmester	úr
-1	KBC_Bancassurance	bankcsoport
-1	Kerekes_László	ügyvezető
+1	Kádár János Miklós	festőművész
+1	Karl Landsteiner	patológus
+1	Karl-Heinz Grasser	pénzügyminiszter
+1	KBC Bancassurance	bankcsoport
+1	Kerekes László	ügyvezető
 1	KFKI	cégcsoporton
 1	KFKI	csoport
-1	Királyi_városok	programban
+1	Királyi városok	programban
 1	Kirch	csoport
-1	Kisbán_Eszter	táplálkozáskutató
-1	Klapka_György	lövészdandár
+1	Kisbán Eszter	táplálkozáskutató
+1	Klapka György	lövészdandár
 1	KLM	légitársaság
-1	Kocsi_Tibor	újságírót
-1	Kodak_RFS_3600	filmszkenner
-1	Kodak_RFS3600	filmszkenner
-1	Kofi_Annan	ENSZ-főtitkár
-1	Kökényesi_Antal	ezredes
+1	Kocsi Tibor	újságírót
+1	Kodak RFS 3600	filmszkenner
+1	Kodak RFS3600	filmszkenner
+1	Kofi Annan	ENSZ-főtitkár
+1	Kökényesi Antal	ezredes
 1	Kolompos	együttes
-1	Komáromi_Endre	ezredes
-1	Komercní_Banka	pénzintézetet
+1	Komáromi Endre	ezredes
+1	Komercní Banka	pénzintézetet
 1	Kommerszant-Vlaszty	hetilap
-1	KOÓS_ZOLTÁN	ügyvéd
-1	Kossuth_LK	sportlövész
-1	Kőszeghy_Béla	projektmenedzser
+1	KOÓS ZOLTÁN	ügyvéd
+1	Kossuth LK	sportlövész
+1	Kőszeghy Béla	projektmenedzser
 1	Kovács	vívócsalád
-1	Kovács_Gyula	építőmérnök
-1	közvélemény-kutató	intézet
-1	közvélemény-kutató	társaság
-1	Krieger_Erzsébet	kötvényes
-1	Krisán_Attila	ezredes
+1	Kovács Gyula	építőmérnök
+1	Krieger Erzsébet	kötvényes
+1	Krisán Attila	ezredes
 1	Kukes	kisváros
-1	külügyminiszter	asszony
 1	Laci	bá
-1	LaciKomercní_Banka	pénzintézetet
+1	LaciKomercní Banka	pénzintézetet
 1	Lafarge	cég
-1	Lakatos_Antal	elnök
-1	Lauda_Air	légitársaságot
+1	Lakatos Antal	elnök
+1	Lauda Air	légitársaságot
 1	Lebegy	tábornok
-1	Legeza_Péter	vezérigazgató-helyettes
-1	Lexmark_International	nyomtatógyártó
+1	Legeza Péter	vezérigazgató-helyettes
+1	Lexmark International	nyomtatógyártó
 1	Libahara	faluból
-1	Lindsay_Owen-Jones	elnök-vezérigazgató
+1	Lindsay Owen-Jones	elnök-vezérigazgató
 1	Linux	rendszerek
 1	Lion	diszkóba
-1	Lionel_Jospin	kormányfő
+1	Lionel Jospin	kormányfő
 1	Lloyds	pénzintézetnek
-1	Lóczy_Lajos	geológus
+1	Lóczy Lajos	geológus
 1	Lőkösháza	megálló
 1	London	város
 1	Lovas	fivérek
-1	Lowell_Edwards	elektromérnök
-1	Lucent_Technologies	távközlésieszköz-gyártó
+1	Lowell Edwards	elektromérnök
+1	Lucent Technologies	távközlésieszköz-gyártó
 1	Lufthansa	repülőtársaságot
 1	Lukoil	olajvállalat
-1	Lurgi_Lentjes_Bischoff	cég
-1	MA_2000	csomag
+1	Lurgi Lentjes Bischoff	cég
+1	MA 2000	csomag
 1	Mabetex	cég
 1	Machintosh	számítógépek
 1	MagicGate	kapu
-1	Magyar_Bálint	pártelnök
-1	Magyar_Kódex	könyvsorozat
-1	Marek_Belka	pénzügyminiszter
-1	Marián_Béla	szociológus
+1	Magyar Bálint	pártelnök
+1	Magyar Kódex	könyvsorozat
+1	Marek Belka	pénzügyminiszter
+1	Marián Béla	szociológus
 1	Markovszky	vezérigazgatót
-1	Marriott_International_Inc.	szállodalánc
+1	Marriott International Inc.	szállodalánc
 1	Marton	zenekar
 1	MasterCard	jutalom-hitelkártya
-1	Mastercard_International	hitelkártyacég
-1	MasterCard_International	hitelkártya-kibocsátó
-1	Mazeikiu_Nafta	olajfinomító
+1	Mastercard International	hitelkártyacég
+1	MasterCard International	hitelkártya-kibocsátó
+1	Mazeikiu Nafta	olajfinomító
 1	MCI	vállalat
-1	Media_Convergence_Server	sorozat
+1	Media Convergence Server	sorozat
 1	Mellwill	százados
-1	Menahem_Begin	miniszterelnök
+1	Menahem Begin	miniszterelnök
 1	Menatep	bank
-1	Merck_and_Co.	gyógyszeróriás
+1	Merck and Co.	gyógyszeróriás
 1	Merkúr	bolygó
-1	Merrill_Lynch	bankház
-1	Meta_Group_Inc.	e-business
+1	Merrill Lynch	bankház
+1	Meta Group Inc.	e-business
 1	Metro	hírújság
 1	Metrotech	irodaház
-1	Michael_Frenzel	vezérigazgató
+1	Michael Frenzel	vezérigazgató
 1	Microsoft	termékek
-1	Microsoft_Office	alkönyvtár
-1	Mike_Jackson	tábornok
+1	Microsoft Office	alkönyvtár
+1	Mike Jackson	tábornok
 1	Milka	csokoládé
 1	Mir	űrállomásról
 1	Mirabilis	cégtől
 1	Miska	bácsi
-1	Missura_Gábor	MNB-szóvivő
-1	Misura_Gábor	közgazdász
-1	MKB_Visa	kártyával
-1	Molnár_Miklós	történész
+1	Missura Gábor	MNB-szóvivő
+1	Misura Gábor	közgazdász
+1	MKB Visa	kártyával
+1	Molnár Miklós	történész
 1	Moneda	kormánypalota
-1	Morgan_Stanley	brókerház
+1	Morgan Stanley	brókerház
 1	Mycal	áruházlánc
 1	N	betűvel
-1	Nádasy_Zoltán	vezérigazgató-helyettes
-1	Nagy_Gergely	üzletág-igazgató
-1	Nagy_Imre	polgármester
-1	Nagy_Tibor	dandártábornok
-1	Navaz_Sarif	miniszterelnöknek
-1	Négyesi_János	üzletág-igazgató
-1	neje	őfelsége
-1	nejem	őnagysága
+1	Nádasy Zoltán	vezérigazgató-helyettes
+1	Nagy Gergely	üzletág-igazgató
+1	Nagy Imre	polgármester
+1	Nagy Tibor	dandártábornok
+1	Navaz Sarif	miniszterelnöknek
+1	Négyesi János	üzletág-igazgató
 1	Németh	família
-1	Németh_Miklós	miniszterelnök
-1	Nemzeti_parkok	menüpont
+1	Németh Miklós	miniszterelnök
+1	Nemzeti parkok	menüpont
 1	Netfinity	kiszolgálócsalád
-1	Netfinity_Director	szoftver
+1	Netfinity Director	szoftver
 1	NetIQ	cég
-1	Netscape_Enterprise	webszerver
-1	New_Europe_Exchange	tőzsdén
-1	New_Holland	cég
-1	New_York	város
+1	Netscape Enterprise	webszerver
+1	New Europe Exchange	tőzsdén
+1	New Holland	cég
+1	New York	város
 1	Nexus	reklámügynökség
-1	Nicholas_Scheele	elnök
+1	Nicholas Scheele	elnök
 1	Nissan	autógyár
-1	Noël_Forgeard	vezérigazgató
+1	Noël Forgeard	vezérigazgató
 1	Nokia	cég
 1	Northstar	processzorok
 1	Norton	család
 1	Novotel-Palace	szálloda
-1	NTFS_5	állományrendszer
-1	NTT_DoCoMo	mobilszolgáltató
+1	NTFS 5	állományrendszer
+1	NTT DoCoMo	mobilszolgáltató
 1	NTV	tévétársaság
 1	Obrandza	falvakból
 1	Öcs-Pula	útvonalon
-1	Old_Trafford	stadion
+1	Old Trafford	stadion
 1	Oldsmobile	cég
-1	OM_AB	tőzsdeüzemeltető
+1	OM AB	tőzsdeüzemeltető
 1	On-line	szó
 1	Opel	autógyár
 1	Opel	rendőrautó
 1	Oracle	termékek
 1	Orange	mobilszolgáltató
 1	Orchidea	hálózat
-1	orvos	pszichológus
 1	OSI	modell
-1	Oskar_Lafontaine	pártelnök
-1	Őzse_Lászlóné	jegyző
+1	Oskar Lafontaine	pártelnök
+1	Őzse Lászlóné	jegyző
 1	Palm	gépek
-1	Palm_V	készülékek
-1	Pánczél_Barabás	kézilabdaedző
-1	Pánczél_Barabás	tréner
+1	Palm V	készülékek
+1	Pánczél Barabás	kézilabdaedző
+1	Pánczél Barabás	tréner
 1	Pantel-GTS	konzorcium
 1	PAP	hírügynökség
-1	Pap_László	professzor
-1	Pap_Lászlóné	tanárnő
+1	Pap László	professzor
+1	Pap Lászlóné	tanárnő
 1	Papelaco	cég
 1	Parker	tengernagy
 1	Parsons	gyerekek
@@ -706,137 +688,134 @@
 1	Penta	csoport
 1	Penthouse	szexmagazin
 1	Pentium	chip
-1	Pentium_III	processzor
+1	Pentium III	processzor
 1	pénztáros	néni
 1	Perner	professzor
-1	Pernod-Ricard_SA	italcég
+1	Pernod-Ricard SA	italcég
 1	Peters	fűtőmester
 1	Peugeot	autógyár
-1	Peugeot_Assistance	segélyszolgálathoz
+1	Peugeot Assistance	segélyszolgálathoz
 1	Piquemal	hadseregtábornok
 1	Piturca	kapitány
-1	PKN_Orlen	olajvállalatról
-1	plébános	úr
+1	PKN Orlen	olajvállalatról
 1	Pollino	miniszter
 1	Pollino	tűzoltó
 1	PP	modul
-1	Preininger_Ambrus	altábornagy
+1	Preininger Ambrus	altábornagy
 1	ProcterandGamble	óriáscég
 1	Próféta	gúnynéven
 1	Progress	adatbázis-kezelő
 1	Prozac	antidepresszáns
 1	Prudential	biztosító
 1	Putyin	elnök
-1	QMS_Qcolor	színkorrekció
-1	R._László	mozdonyvezető
+1	QMS Qcolor	színkorrekció
+1	R. László	mozdonyvezető
 1	Rác	fürdő
-1	Raiffeisen_Zentralbank	csoport
-1	Raiffeisen_Zentralbank	konszern
-1	Rajfu_Szupeszu	szekta
+1	Raiffeisen Zentralbank	csoport
+1	Raiffeisen Zentralbank	konszern
+1	Rajfu Szupeszu	szekta
 1	Rambus	memóriát
-1	Ravasz_István	hadtörténész
+1	Ravasz István	hadtörténész
 1	Redilco	cég
-1	Regina_Mundi	monostor
-1	Rejtő_E._Tibor	vezérigazgató
-1	Remington_Rand	cég
+1	Regina Mundi	monostor
+1	Rejtő E. Tibor	vezérigazgató
+1	Remington Rand	cég
 1	Renault	autógyár
-1	rendőr	úr
-1	Répássy_Róbert	frakcióvezető-helyettes
+1	Répássy Róbert	frakcióvezető-helyettes
 1	Ribbentrop-Csáky	találkozón
-1	Richard_Ellesley	doktor
-1	Richard_Schenz	OMV-vezér
+1	Richard Ellesley	doktor
+1	Richard Schenz	OMV-vezér
 1	Riverbank	név
 1	Röber	edző
-1	Robert_White	sebész
+1	Robert White	sebész
 1	Robin	kakas
 1	Robin	segélyhajó
 1	Roger	testvér
-1	Roper_Starch_Worldwide	kutatóintézet
-1	Royal_Dutch_Shell	csoport
+1	Roper Starch Worldwide	kutatóintézet
+1	Royal Dutch Shell	csoport
 1	RTL	csoport
-1	Rudolf_Virchow	patológus
+1	Rudolf Virchow	patológus
 1	Ryanair	légitársaság
 1	RZB	konszern
-1	S._József	rendőr
-1	SAM_46	hangsz​​órópár
+1	S. József	rendőr
+1	SAM 46	hangsz​​órópár
 1	Sampras-Agassi	összecsapás
 1	Samsung	monitor
 1	Sándor	pápa
-1	Sant_Ubaldo	kolostorból
+1	Sant Ubaldo	kolostorból
 1	SANWorks	menedzsmentszoftver
 1	SAP	szoftveróriás
 1	SAPARD	iroda
 1	Sátoraljaújhely-Széphalom	útra
 1	Schering-Plough	gyógyszergyártó
-1	Schering-Plough_Corp.	gyógyszergyártó
+1	Schering-Plough Corp.	gyógyszergyártó
 1	Sealand	hercegség
-1	Seattle_Filmworks	cég
-1	Secure_Digital_Music_Initiative	technológia
+1	Seattle Filmworks	cég
+1	Secure Digital Music Initiative	technológia
 1	Shell	töltőállomáson
-1	Shell_Smart	program
+1	Shell Smart	program
 1	Simon	tanár
-1	Sinclair_ZX80	gép
-1	Sipos_István	vezérigazgató
+1	Sinclair ZX80	gép
+1	Sipos István	vezérigazgató
 1	Skodák	százados
 1	Slovnaft	anyavállalat
 1	Smith	öregfiú
-1	Société_Générale	bank
-1	Société_Générale	nagybank
+1	Société Générale	bank
+1	Société Générale	nagybank
 1	Solaris	platform
 1	Sony	HDD-magnók
-1	Sony_Life_Insurance_Co.	biztosítótársaság
+1	Sony Life Insurance Co.	biztosítótársaság
 1	Sopron-Szombathely	vonalszakasz
-1	Sor_Libchavy	gyár
-1	soror	megszólítás
-1	Sound_Blaster_Pro	hangkártya
-1	St._Antonio	hercegnő
-1	St._Antonio_de_Vicenzo_Y_Galapagos	főherceg
-1	Standard_Edition	szoftverek
+1	Sor Libchavy	gyár
+1	Sound Blaster Pro	hangkártya
+1	St. Antonio	hercegnő
+1	St. Antonio de Vicenzo Y Galapagos	főherceg
+1	Standard Edition	szoftverek
 1	Start	gomb
 1	Start	menü
-1	Sterbinszky_Amália	királynőig
-1	Stet_Hellas	mobilszolgáltató
+1	Sterbinszky Amália	királynőig
+1	Stet Hellas	mobilszolgáltató
 1	Steyr	céget
 1	StorageWorks	háttértár-alrendszer
-1	Strasszer_Tibor	ügyvéd
-1	Stumpf_István	miniszter
+1	Strasszer Tibor	ügyvéd
+1	Stumpf István	miniszter
 1	Surányi	jegybankelnök
 1	Szabó	miniszter
-1	Szabó_Ferenc	ezredes
-1	Szabó_Lajos	hivatalvezető
-1	Szacsvay_László	színművész
-1	Szarvas_Ferenc	vezérigazgató
+1	Szabó Ferenc	ezredes
+1	Szabó Lajos	hivatalvezető
+1	Szacsvay László	színművész
+1	Szarvas Ferenc	vezérigazgató
 1	Százados	úr
 1	Százszorszép	együttes
 1	Szelényi	professzor
-1	Szent_Anna	kápolna
+1	Szent Anna	kápolna
 1	Sziget	fesztivál
-1	Szilassy_Nelly	zongoraművész
+1	Szilassy Nelly	zongoraművész
 1	Szinán	pasa
 1	Szingapúr	folyó
 1	Szkander	bég
-1	Szlobodan_Milosevics	elnök
+1	Szlobodan Milosevics	elnök
 1	Sztálin	elvtárs
-1	T-Mobile_International	mobilszolgáltatónak
-1	Takács_Albert	alkotmányjogász
-1	Takács_Károly	vezérigazgató
-1	Tamás_Gáspár_Miklós	filozófus
+1	T-Mobile International	mobilszolgáltatónak
+1	Takács Albert	alkotmányjogász
+1	Takács Károly	vezérigazgató
+1	Tamás Gáspár Miklós	filozófus
 1	TAPI	interfész
-1	Tatár_György	talmudista
-1	Tázló_József	rendszermérnök
+1	Tatár György	talmudista
+1	Tázló József	rendszermérnök
 1	Teleki	miniszterelnök
 1	Tempo	üzleth​​álózat
 1	Tengernagy	úr
 1	Tesco-Global	áruházlánc
 1	Tessin	kanton
 1	Thatcher	asszony
-1	Thomas_Klestil	államfő
-1	Thomas_Lynch	elnökhelyettes
-1	Thomson_Multimedia	csoport
-1	Thrust_SSC	rakétaautó
-1	Thuega_AG	szolgáltatócégben
+1	Thomas Klestil	államfő
+1	Thomas Lynch	elnökhelyettes
+1	Thomson Multimedia	csoport
+1	Thrust SSC	rakétaautó
+1	Thuega AG	szolgáltatócégben
 1	Tillotson	elvtárs
-1	Time_Warner	részleg
+1	Time Warner	részleg
 1	Timi	néni
 1	Tiran	vállalat
 1	Tiso	elnök
@@ -845,80 +824,79 @@
 1	TLD	webszerverek
 1	Todt	szervezet
 1	Tokaj	hegység
-1	Tony_Blair	miniszterelnök
+1	Tony Blair	miniszterelnök
 1	Torgyán	házaspár
-1	Törőcsik_Jenő	elnök
+1	Törőcsik Jenő	elnök
 1	Trabant	gépkocsik
-1	Transport_Layer_Security	technológia
+1	Transport Layer Security	technológia
 1	Tredi	céggel
 1	Trigon	bank
-1	Tristan_Tzara	költő
+1	Tristan Tzara	költő
 1	TRW	autóalkatrész-gyártóra
 1	Tui	név
 1	UBS	bankcsoport
 1	Ulpius	nagyapa
-1	Ulrich_Hartmann	vezérigazgató
+1	Ulrich Hartmann	vezérigazgató
 1	UNC	formátumban
 1	Unicode	szabvány
 1	Unicredito	bank
-1	UniCredito_Italiano	bankcsoport
+1	UniCredito Italiano	bankcsoport
 1	Universal	stúdió
-1	US_Airways_Inc.	légitársaság
-1	Václav_Havel	államfő
+1	US Airways Inc.	légitársaság
+1	Václav Havel	államfő
 1	Vadsu	őfelségét
-1	Vagit_Alekperov	Lukoil-elnök
-1	Vaio_SR17	noteszgéppel
-1	Vajda_Mihály	filozófus
-1	Váradi_József	vezérigazgató
+1	Vagit Alekperov	Lukoil-elnök
+1	Vaio SR17	noteszgéppel
+1	Vajda Mihály	filozófus
+1	Váradi József	vezérigazgató
 1	Varga	úr
-1	Vasszosz_Lisszaridesz	pártelnök
-1	Vaszil_Rohovij	miniszterelnök-helyettes
+1	Vasszosz Lisszaridesz	pártelnök
+1	Vaszil Rohovij	miniszterelnök-helyettes
 1	VDSL	frekvenciaspektrum
-1	Velentzei_Vladimir	gyárigazgató
-1	vendéglős	úr
+1	Velentzei Vladimir	gyárigazgató
 1	Vénusz	napraforgó-étolaj
 1	Vénusz	napraforgóolaj
-1	Viktor_Vekselberg	vezérigazgatóra
+1	Viktor Vekselberg	vezérigazgatóra
 1	Visa	kártya
 1	Visa	kártyatársaság
-1	Visa_International	kártyák
-1	Visa_Smart_Partner	program
-1	Vitai_Attila	vezérigazgató
+1	Visa International	kártyák
+1	Visa Smart Partner	program
+1	Vitai Attila	vezérigazgató
 1	Vivendi	cégcsoport
 1	Vivendi	csoport
-1	Vivendi_Telecom_Hungary	csoport
-1	Vivendi_Universal	médiaóriás
-1	Vivendi_Universal_SA	médiacsoport
+1	Vivendi Telecom Hungary	csoport
+1	Vivendi Universal	médiaóriás
+1	Vivendi Universal SA	médiacsoport
 1	Vizi	professzor
-1	Vízi_E._Szilveszter	akadémikus
-1	Víziszony_története	címet
-1	Vlagyimir_Putyin	elnök
+1	Vízi E. Szilveszter	akadémikus
+1	Víziszony története	címet
+1	Vlagyimir Putyin	elnök
 1	VNU	kiadóvállalat
 1	VoIP	technológiákon
 1	Volksbanken	csoport
 1	Voxline	név
 1	VUB	bank
-1	Wellcome_Trust	magánalapítvány
+1	Wellcome Trust	magánalapítvány
 1	Wienerberger	építőanyag-gyártó
-1	Wieslaw_Kaczmarek	tárcavezető
-1	Wim_Duisenberg	bankelnök
-1	Windows_2000	kiszolgáló
-1	Windows_2000	kiszolgálócsalád
+1	Wieslaw Kaczmarek	tárcavezető
+1	Wim Duisenberg	bankelnök
+1	Windows 2000	kiszolgáló
+1	Windows 2000	kiszolgálócsalád
 1	Wintach	teszt
 1	Winterthur	biztosítótársaság
-1	Wired_Equivalent_Privacy	titkosítással
+1	Wired Equivalent Privacy	titkosítással
 1	Wirth	parancsnokot
 1	WMS	technológiát
 1	WorldCom	márkanéven
 1	Wright	testvérek
 1	Wright	testvérpár
-1	Yellow_Pages	szolgáltatás
-1	You_And_I	együtt​​es
-1	Zacher_Gábor	főorvos
+1	Yellow Pages	szolgáltatás
+1	You And I	együtt​​es
+1	Zacher Gábor	főorvos
 1	Zagrosz	hegység
 1	ZIL	teherautó
 1	Zoli	bá
-1	Zoran_Zsivkovics	polgármester
-1	Zsitkovszky_Sándorné	rendőr
+1	Zoran Zsivkovics	polgármester
+1	Zsitkovszky Sándorné	rendőr
 1	Zsuzsa	néni
 1	Zycie	napilapnak
