@@ -7,3 +7,5 @@ all_NOUN+NOUNs: list of all word combninations retrieved from the corpus. These 
 all_names: list of all extended named entities retrieved from the list "all_NOUN+NOUNs" by a manual filtering
 
 xnes_Szeged_lemmas_freq: The complete list of the lemmas of the names (the tokens *St. Antonio herceg-nek* 'St. Antonio prince-Dat' and *St. Antonio herceg* 'St. Antonio prince' are one type) in a frequency order. The list contains 902 types. 
+
+endings_lemma_sorted: List of the second parts of XNEs, the common noun, sorted by frequency. 
